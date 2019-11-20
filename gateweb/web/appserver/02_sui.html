@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html>
+
+	
+<head>
+<meta charset="UTF-8">
+  
+ 
+	
+<title>感受 css </title>
+
+    
+    <meta name="viewport" content="initial-scale=1, maximum-scale=1">
+   
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    	
+	    	
+	<link rel="stylesheet" href="//g.alicdn.com/msui/sm/0.6.2/css/sm.min.css">
+	<script type='text/javascript' src='//g.alicdn.com/sj/lib/zepto/zepto.min.js' charset='utf-8'></script>
+	<script type='text/javascript' src='//g.alicdn.com/msui/sm/0.6.2/js/sm.min.js' charset='utf-8'></script>
+	<link rel="stylesheet" type="text/css" href="./mycss.css" />
+
+	<script src="./jquery.min.js"></script>
+	<script src="./yundx_reg.js"> </script>	    
+
+</head>
+<body>
+
+<header class="bar bar-nav">
+  <h1 class='title'>申请 注册 </h1>
+</header>
+<div class="content">
+  <div class="list-block">
+  
+
+	<form   id="stockUserInfoID" action="" method="get"    > 
+	
+	
+	    <!--  证券公司 -->
+	    <fieldset   ><br />
+	    
+            <div class="item-title label">证券公司</div>
+            <div class="item-input">
+              	<input type="text"  id="companyNameID" class="stdInput" placeholder="请选择证券公司"  />	              
+            </div>	    
+ 			<br /><br />
+			<div id = "companylistid"  style="display:none;"  >
+
+			<label><input name="Fruit" type="radio" value="" />方正证券1 </label>  
+	
+			<label><input name="Fruit" type="radio" value="fzzq2" id="check_12_id" onclick="javascript:CompanyCheck2(this.id) " />方正证券5  </label>
+	
+			<label><input name="Fruit" type="radio" value="fzzq" id="check_11_id" onclick="javascript:CompanyCheck2(this.id) " />方正证券6  </label>
+			</div> 
+		</fieldset>
+		<br />
+			
+	    <!--  证券公司账号 -->
+	    <fieldset   ><br />
+			<input type="text"  id="stockuserID" class="stdInput"  value="请输入证券公司账号"   />	
+			<br /> <br/> 
+
+		</fieldset>
+		<br />
+	
+	
+
+		
+		
+		<!--  证券营业厅  -->
+		<fieldset  ><br />
+		
+		<input type="text"  id="companyyybID" class="stdInput"  value="请选择证券营业厅" 
+		 " />	
+		<br /><br />
+
+		<div id = "companyyyblistid" style="display:none;" >
+				
+
+		<label><input name="yybGroup" type="radio" value="yyb1" />总部1 </label>  
+		<label><input name="yybGroup" type="radio" value="yyb2" id="check_12_id" onclick="javascript:CompanyCheck2(this.id) " />方正证券5  </label>
+		<label><input name="yybGroup" type="radio" value="yyb3" id="check_11_id" onclick="javascript:CompanyCheck2(this.id) " />方正证券6  </label>
+		</div> 
+		</fieldset>
+		
+		<br />
+
+		
+		<input   type="button"  class="stdBtn" value="测试" onclick="fnTestClick() " />
+		 
+		</form> 
+
+ </div>
+ </div>
+
+
+
+
+</body>
+</html>

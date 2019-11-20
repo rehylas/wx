@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>帮你看着 - 帮您监控股市动态</title>
+        <meta name="description" content="帮你看着 - 帮您监控股市动态，股讯，通达信，预警股票，发送信息到手机微信">
+		<META NAME="Keywords" CONTENT="帮你看着 - 帮您监控股市动态，股讯，通达信，预警股票，发送信息到手机微信">
+		<META id=ctl00_ctl00_metaOgTitle content="帮你看着 - 帮您监控股市动态，股讯，通达信，预警股票，发送信息到手机微信" property="og:title">
+        
+        <!--
+		<link rel="stylesheet" href="//g.alicdn.com/msui/sm/0.6.2/css/sm.min.css">
+		<script type='text/javascript' src='//g.alicdn.com/sj/lib/zepto/zepto.min.js' charset='utf-8'></script>
+		<script type='text/javascript' src='//g.alicdn.com/msui/sm/0.6.2/js/sm.min.js' charset='utf-8'></script>
+		-->
+		
+		<link rel="stylesheet" href="./sui/sm.min.css">
+		<script type='text/javascript' src='./sui/zepto.min.js' charset='utf-8'></script>
+		<script type='text/javascript' src='./sui/sm.min.js' charset='utf-8'></script>
+		
+		
+	    <script src="./qrcode.js"></script>
+	    <style>
+	        #qrcode{
+	            /*text-align: center;*/
+	            /*display: table-cell;*/
+	            /*width: 96px;*/
+	            /*height: 96px;*/
+	            /*vertical-align:middle;*/
+	            /*position: relative;*/
+	        }
+	    </style>	
+	    
+	    <script src="./css/jquery.min.js"></script>
+		<script src="./bindbyqr.js"> </script>	
+		   
+	   	<!-- 百度统计  -->
+	   	<script>
+		var _hmt = _hmt || [];
+		(function() {
+		  var hm = document.createElement("script");
+		  hm.src = "https://hm.baidu.com/hm.js?9ef66ae933de984cbd517b995bb26317";
+		  var s = document.getElementsByTagName("script")[0]; 
+		  s.parentNode.insertBefore(hm, s);
+		})();
+		</script>
+</head>
+<body style="font-size:48px"  >
+
+    <div class="page-group">
+        <!-- 单个page ,第一个.page默认被展示  -->
+        <div class="page">
+ 
+            <!-- 这里是页面内容区   style="display:none;" -->
+            <div class="content">
+                <div class="content-block">  
+			 		<input type="text"  id="stockuserID"  style="font-size:48px;"  placeholder="请输入证券账号"/>	
+					<br />
+					<div id = "imgQrID" align="center" style="display:none;" >
+						长按二维码绑定<br/>
+						<div id="qrcode">
+						</div>										
+					</div>
+					<p>
+					<a href="#" id="refreshqr" class="button button-big button-round" style="font-size:48px; height:58px" 
+					     onclick="fnOnRefreshqrClick()"    >刷新二维码</a>
+					</p>
+					
+                </div>
+            </div>
+        </div>
+
+        <!-- 其他的单个page内联页（如果有） -->
+        <div class="page">...</div>
+    </div>
+
+ 
+	<script>
+	    window.onload =function(){
+	    	/*
+	        var qrcode = new QRCode(document.getElementById("qrcode"), {
+	            width : 196,//设置宽高
+	            height : 196
+	        });
+	        qrcode.makeCode("http://www.bangnikanzhe.com");
+	        
+	        document.getElementById("refreshqr").onclick =function(){
+	        	qrcode.makeCode( "debug" );
+	            //qrcode.makeCode(document.getElementById("getval").value);
+	        }
+	        */
+	    }
+	</script>
+	
+</body>
+</html>

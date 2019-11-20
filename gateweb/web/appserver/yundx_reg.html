@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>帮你看着 - 帮您监控股市动态</title>
+        <meta name="description" content="帮你看着 - 帮您监控股市动态，股讯，通达信，预警股票，发送信息到手机微信">
+		<META NAME="Keywords" CONTENT="帮你看着 - 帮您监控股市动态，股讯，通达信，预警股票，发送信息到手机微信">
+		<META id=ctl00_ctl00_metaOgTitle content="帮你看着 - 帮您监控股市动态，股讯，通达信，预警股票，发送信息到手机微信" property="og:title">
+        
+
+	    <meta name="apple-mobile-web-app-capable" content="yes">
+	    <meta name="apple-mobile-web-app-status-bar-style" content="black">    
+	    		    
+        <!--
+		<link rel="stylesheet" href="//g.alicdn.com/msui/sm/0.6.2/css/sm.min.css">
+		<script type='text/javascript' src='//g.alicdn.com/sj/lib/zepto/zepto.min.js' charset='utf-8'></script>
+		<script type='text/javascript' src='//g.alicdn.com/msui/sm/0.6.2/js/sm.min.js' charset='utf-8'></script>
+		-->
+		
+		<link rel="stylesheet" href="./sui/sm.min.css">
+		<script type='text/javascript' src='./sui/zepto.min.js' charset='utf-8'></script>
+		<script type='text/javascript' src='./sui/sm.min.js' charset='utf-8'></script>
+				
+		
+		<link rel="stylesheet" type="text/css" href="./mycss.css" />
+		
+		<script src="./css/jquery.min.js"></script>
+		<script src="./yundx_reg.js"> </script>				
+			   
+	   	<!-- 百度统计  -->
+	   	<script>
+		var _hmt = _hmt || [];
+		(function() {
+		  var hm = document.createElement("script");
+		  hm.src = "https://hm.baidu.com/hm.js?9ef66ae933de984cbd517b995bb26317";
+		  var s = document.getElementsByTagName("script")[0]; 
+		  s.parentNode.insertBefore(hm, s);
+		})();
+		</script>
+</head>
+
+<body style="font-size:48px; background-color:#FFFAFA"  >
+
+<header class="bar bar-nav">
+  <h2 class="title" align="center" style="font-size:48px;" >登记申请 </h2>
+</header>
+<div class="content">
+  <div class="list-block" align="center" >
+   
+	<form   id="stockUserInfoID" action="" method="get"    > 	
+	
+	    <!--  证券公司 -->
+	    <fieldset   ><br />	    
+             
+            <div class="item-input">
+              	<input type="text"  id="companyNameID" class="stdInput" style="font-size:48px;" placeholder="请选择证券公司"  />	              
+            </div>	    
+            
+            
+            
+ 			<br />
+			<div id = "companylistid"  style="display:none;"  >
+
+			<label><input name="Fruit" type="radio" value="" />方正证券1 </label>  
+	
+			<label><input name="Fruit" type="radio" value="fzzq2" id="check_12_id" onclick="javascript:CompanyCheck2(this.id) " />方正证券5  </label>
+	
+			<label><input name="Fruit" type="radio" value="fzzq" id="check_11_id" onclick="javascript:CompanyCheck2(this.id) " />方正证券6  </label>
+			</div> 
+		</fieldset>
+		<br />
+			
+	    <!--  证券公司账号 -->
+	    <fieldset   ><br />
+			<input type="text"  id="stockuserID" class="stdInput" style="font-size:48px;"  value="请输入证券公司账号"   />	
+			<br /> 
+
+		</fieldset>
+		<br />
+
+		
+		<!--  证券营业厅  -->
+		<fieldset  ><br />
+		
+		<input type="text"  id="companyyybID" class="stdInput" style="font-size:48px;"  value="请选择证券营业厅"/>	
+		<br />
+		<div id = "companyyyblistid" style="display:none;" >
+				
+
+		<label><input name="yybGroup" type="radio" value="yyb1" />总部1 </label>  
+		<label><input name="yybGroup" type="radio" value="yyb2" id="check_12_id" onclick="javascript:CompanyCheck2(this.id) " />方正证券5  </label>
+		<label><input name="yybGroup" type="radio" value="yyb3" id="check_11_id" onclick="javascript:CompanyCheck2(this.id) " />方正证券6  </label>
+		</div> 
+		</fieldset>		
+		<br />
+		
+	    <!--  证券公司交易密码 -->
+	    <fieldset><br/>
+	    <div align="left">
+	    	<span align="left" style=" color: #777; font-size:48px; BACKGROUND-COLOR: transparent; " >请输入证券交易密码  : </span>
+	    	    
+    
+			<input type="password"  id="stockuserJyPwd" class="stdInput" style="font-size:48px; BACKGROUND-COLOR: #FFFACD; "  value="888888"   />	
+			<br/> 
+		</div>			
+			<a href="pwddesp.html" style="font-size:32px;" >交易密码安全建议 </a>			
+		</fieldset>
+		<br/>		
+		
+	    <!--  联系电话 -->
+	    <fieldset   ><br />
+			<input type="text"  id="phoneID" class="stdInput" style="font-size:48px;"  placeholder="请输入联系电话（用于服务支持）"    />	
+			<br /> 
+
+		</fieldset>
+		<br />		
+
+		<!--  <input   type="button"  class="stdBtn" value="提交" onclick="fnRegYundx() " /> -->
+		<a href="#" class="button button-big button-fill button-success" style="font-size:48px; height:58px " onclick="fnRegYundx()" >提交</a>
+		 
+		</form> 
+
+ </div>
+ </div>
+
+
+</body>
+</html>

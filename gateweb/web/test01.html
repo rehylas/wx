@@ -1,0 +1,223 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>JQuery-CSS3制作简洁的弹框_何问起</title>
+    
+    <script type="text/javascript" src="js/jquery18.js"></script>
+    <link rel="stylesheet" href="popup_style.css">
+    <style>.hovertreeinfo{text-align:center;}.hovertreeinfo a{color:blue}</style>
+    
+    
+	<!-- 图片新闻 -->
+	<style type="text/css">
+	.container{
+		width:280px;
+		height:200px;
+		border:1px solid #eee;
+		position:relative;
+	}
+	#idPicText{
+		background:#eee;
+		line-height:25px;
+		text-align:center;
+		font-weight:bold;
+		width:282px;
+		white-space:nowrap;
+		overflow:hidden;
+		font-size:12px;
+	}
+	#idPicText a{
+		text-decoration:none;
+		color:#333;
+		display:block;
+	}
+	#idPicList img{
+		cursor:pointer;
+		width:65px;
+		height:50px;
+		filter:alpha(opacity=50);
+		-moz-opacity: .5;
+		opacity: .5;
+		border:0;
+		margin:10px;
+	}
+	#idPicList img.on{
+		filter:alpha(opacity=100);
+		-moz-opacity: 1;
+		opacity: 1;
+	}
+	
+	#idNum{ position:absolute; right:5px; bottom:5px;}
+	#idNum li{
+		float: left;
+		list-style:none;
+		color: #fff;
+		text-align: center;
+		line-height: 16px;
+		width:	16px;
+	    height: 16px;
+		font-family: Arial;
+		font-size: 12px;
+		cursor: pointer;
+		margin: 1px;
+		border: 1px solid #707070;
+		background-color: #060a0b;
+	}
+	#idNum li.on{
+		line-height: 18px;
+		width: 18px;
+		height: 18px;
+		font-size: 14px;
+		border: 0;
+		background-color: #ce0609;
+		font-weight: bold;
+	}
+	
+	</style>
+	<!-- 图片新闻  end -->
+	
+	<!-- 图片新闻 --> 
+	<script src="css/RevealTrans.js" type="text/javascript"></script> 
+	
+    
+</head>
+
+<body>
+<div  align="center" style="background : #696969" >
+<div  align="center"  style=" height:300px; background:url(img/deep/deep01.jpg) no-repeat center center; ">
+<h2  style="color : #FFD700" > 未来是人和智能的较量 </h2>
+</div>
+</div>
+
+
+
+
+
+
+<div align="left" valign="top" width="280"  >
+	<!-- 图片新闻 -->
+	<div id="idPicList"></div>	
+		
+	<div id="idPicShow" class="container"  >
+	  <ul id="idNum">
+	  </ul>
+	</div>
+	
+	<div id="idPicText"></div>
+</div>
+
+ 
+
+
+		<table>
+		<tr> 
+		<td width="62%" align="right" bgcolor="red" >QQ群支持  : 254361958 </td>
+		<td width="38%" align="center" bgcolor="green" ><img alt="QQ群支持" class="div_center" src="img/bnkz_Qqun1.png">	</td> 		
+		</tr>
+		<tr>
+ 
+		<td width="62%" align="right"  >购买咨询  : 87830000 </td>		
+		<td width="38%" align="center"><img alt="QQ群支持" class="div_center" src="img/server_01.jpg">	</td>
+					
+		</tr>		
+		</table>
+		
+ 
+    <div class="checkbox">
+        <a href="javascript:0;" class="cd-popup-trigger0">样式1</a>
+    </div>
+    
+    <!--弹框-->
+    <div class="cd-popup">
+        <div class="cd-popup-container">
+            <p>微信公众号</p>
+            <div class="cd-buttons"  >
+               <img alt="官方公众号" src="./img/bnkz_qr_8.jpg">
+            </div>
+            <a href="javascript:;" class="cd-popup-close">关闭</a>
+        </div>
+    </div>
+
+ 
+    <script type="text/javascript">
+    /*弹框JS内容*/
+    jQuery(document).ready(function($){
+        //打开窗口
+        $('.cd-popup-trigger0').on('click', function(event){
+            event.preventDefault();
+            $('.cd-popup').addClass('is-visible');
+            //$(".dialog-addquxiao").hide()
+        });
+        //关闭窗口
+        $('.cd-popup').on('click', function(event){
+            if( $(event.target).is('.cd-popup-close') || $(event.target).is('.cd-popup') ) {
+                event.preventDefault();
+                $(this).removeClass('is-visible');
+            }
+        });
+        //ESC关闭
+        $(document).keyup(function(event){
+            if(event.which=='27'){
+                $('.cd-popup').removeClass('is-visible');
+            }
+        });
+
+    
+    });
+    </script>
+</body>
+</html>
+
+
+<!--  图片播放效果 -->
+<script>
+
+	var rvt = new RevealTrans("idPicShow");
+	
+	//添加变换对象
+	rvt.Add('img/01.jpg', '关于如何炒单', 'rineibs_caodan.html');
+	rvt.Add('img/02.jpg', 'K线里有杀气', '');
+	rvt.Add('img/03.jpg', '如何训练日内交易', 'rineibs_HowtoLearn.html');  
+	
+	
+	
+	var oList = $("idPicList"), oText = $("idPicText"), arrImg = [];
+	
+	var oNum = $("idNum"), arrNum = [];
+	
+	//设置图片列表
+	Each(rvt.List, function(list, i){
+		//图片式
+		var img = document.createElement("img");
+		img.src = list["img"]; img.alt = list["text"];
+		arrImg[i] = img;
+		oList.appendChild(img);
+		//按钮式
+		var li = document.createElement("li");
+		li.innerHTML = i + 1;
+		arrNum[i] = li;
+		oNum.appendChild(li);
+		//事件设置
+		img.onmouseover = li.onmouseover = function(){ rvt.Auto = false; rvt.Index = i; rvt.Start(); };
+		img.onmouseout = li.onmouseout = function(){ rvt.Auto = true; rvt.Start(); };
+	});
+	
+	//设置图片列表样式 文本显示区域
+	rvt.onShow = function(){
+		var i = this.Index, list = this.List[i];
+		//图片式
+		Each(arrImg, function(o){ o.className = ""; }); arrImg[i].className = "on";
+		//按钮式
+		Each(arrNum, function(o){ o.className = ""; }); arrNum[i].className = "on";
+		//文本区域
+		oText.innerHTML = !!list.url ? "<a href='" + list.url + "' target='_blank'>" + list.text + "</a>" : list.text;
+	}
+	
+	//文本显示区域
+	oText.onmouseover = function(){ rvt.Auto = false; rvt.Stop(); };
+	oText.onmouseout = function(){ rvt.Auto = true; rvt.Start(); };
+	
+	rvt.Start();
+
+</script>

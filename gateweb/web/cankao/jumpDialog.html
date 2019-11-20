@@ -1,0 +1,149 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>JQuery-CSS3制作简洁的弹框_何问起</title>
+    <script type="text/javascript" src="http://down.hovertree.com/jquery/jquery-1.7.2.min.js"></script>
+    <link rel="stylesheet" href="http://hovertree.com/texiao/jquery/85/style.css">
+    <style>.hovertreeinfo{text-align:center;}.hovertreeinfo a{color:blue}</style>
+</head>
+
+<body>
+    <div class="hovertreeinfo"><h2>jquery CSS3制作简洁遮罩弹出层动画</h2>
+        几种常见的简洁弹框</div>
+    <div class="checkbox">
+        <a href="javascript:0;" class="cd-popup-trigger0">样式1</a>
+        <a href="javascript:0;" class="cd-popup-trigger1">样式2</a>
+        <a href="javascript:0;" class="cd-popup-trigger2">样式3</a>
+        <a href="javascript:0;" class="cd-popup-trigger3">样式4</a>
+    </div>
+    <!--弹框-->
+    <div class="cd-popup">
+        <div class="cd-popup-container">
+            <p>何问起</p>
+            <div class="cd-buttons">
+               1 自定义整体容器宽高度及内容，高度可自适应可固定,样式可以定义自己喜欢的样式，这里就不做美观了
+            </div>
+            <a href="javascript:;" class="cd-popup-close">close</a>
+        </div>
+    </div>
+
+    <div class="cd-popup1">
+        <div class="cd-popup-container1">
+            <p>何问起</p>
+            <div class="cd-buttons">
+              2  自定义整体容器宽高度及内容，高度可自适应可固定,样式可以定义自己喜欢的样式，这里就不做美观了,更多特效：<a href="http://hovertree.com/texiao/" target="_blank">http://hovertree.com/texiao/</a>
+            </div>
+            <a href="javascript:;" class="cd-popup-close">close</a>
+        </div>
+    </div>
+
+    <div class="cd-popup2">
+        <div class="cd-popup-container2">
+            <p>何问起</p>
+            <div class="cd-buttons">
+              3  自定义整体容器宽高度及内容，高度可自适应可固定,样式可以定义自己喜欢的样式，这里就不做美观了
+            </div>
+            <a href="javascript:;" class="cd-popup-close">close</a>
+        </div>
+    </div>
+
+    <div class="cd-popup3">
+        <div class="cd-popup-container3">
+            <p>何问起</p>
+            <div class="cd-buttons">
+             4   自定义整体容器宽高度及内容，高度可自适应可固定,样式可以定义自己喜欢的样式，这里就不做美观了
+            </div>
+            <a href="javascript:;" class="cd-popup-close">close</a>
+        </div>
+    </div>
+
+    <div class="hovertreeinfo"><a href="http://hovertree.com" target="_blank">何问起</a>
+<a href="http://hovertree.com/menu/texiao/" target="_blank">网页特效</a>
+<a href="http://hovertree.com/h/bjaf/0ai05muy.htm" target="_blank">代码说明</a></div>
+    <script type="text/javascript">
+    /*弹框JS内容*/
+    jQuery(document).ready(function($){
+        //打开窗口
+        $('.cd-popup-trigger0').on('click', function(event){
+            event.preventDefault();
+            $('.cd-popup').addClass('is-visible');
+            //$(".dialog-addquxiao").hide()
+        });
+        //关闭窗口
+        $('.cd-popup').on('click', function(event){
+            if( $(event.target).is('.cd-popup-close') || $(event.target).is('.cd-popup') ) {
+                event.preventDefault();
+                $(this).removeClass('is-visible');
+            }
+        });
+        //ESC关闭
+        $(document).keyup(function(event){
+            if(event.which=='27'){
+                $('.cd-popup').removeClass('is-visible');
+            }
+        });
+
+        //打开窗口
+        $('.cd-popup-trigger1').on('click', function(event){
+            event.preventDefault();
+            $('.cd-popup1').addClass('is-visible1');
+            //$(".dialog-addquxiao").hide()
+        });
+        //关闭窗口
+        $('.cd-popup1').on('click', function(event){
+            if( $(event.target).is('.cd-popup-close') || $(event.target).is('.cd-popup1') ) {
+                event.preventDefault();
+                $(this).removeClass('is-visible1');
+            }
+        });
+        //ESC关闭
+        $(document).keyup(function(event){
+            if(event.which=='27'){
+                $('.cd-popup1').removeClass('is-visible1');
+            }
+        });
+
+        //打开窗口 by 何问起
+        $('.cd-popup-trigger2').on('click', function(event){
+            event.preventDefault();
+            $('.cd-popup2').addClass('is-visible2');
+            //$(".dialog-addquxiao").hide()
+        });
+        //关闭窗口
+        $('.cd-popup2').on('click', function(event){
+            if( $(event.target).is('.cd-popup-close') || $(event.target).is('.cd-popup2') ) {
+                event.preventDefault();
+                $(this).removeClass('is-visible2');
+            }
+        });
+        //ESC关闭
+        $(document).keyup(function(event){
+            if(event.which=='27'){
+                $('.cd-popup2').removeClass('is-visible2');
+            }
+        });
+
+        //打开窗口
+        $('.cd-popup-trigger3').on('click', function(event){
+            event.preventDefault();
+            $('.cd-popup3').addClass('is-visible3');
+            //$(".dialog-addquxiao").hide()
+        });
+        //关闭窗口
+        $('.cd-popup3').on('click', function(event){
+            if( $(event.target).is('.cd-popup-close') || $(event.target).is('.cd-popup3') ) {
+                event.preventDefault();
+                $(this).removeClass('is-visible3');
+            }
+        });
+        //ESC关闭
+        $(document).keyup(function(event){
+            if(event.which=='27'){
+                $('.cd-popup3').removeClass('is-visible3');
+            }
+        });
+    });
+    </script>
+</body>
+</html>

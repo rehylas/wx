@@ -1,0 +1,92 @@
+
+
+.h2Blue {
+ 
+    color: #3366ff;
+ 
+}
+
+.stdInput {
+	clear: both;
+	height: 40px;
+	width:220px;
+    color: #777;
+    font-size:48px;
+	position: relative;
+	/* background-color:#a2cccc; */
+	BACKGROUND-COLOR: transparent;
+		
+	BORDER-BOTTOM: #ffffff 1px solid;
+	BORDER-LEFT: #ffffff 1px solid;
+	BORDER-RIGHT: #ffffff 1px solid;
+	BORDER-TOP: #ffffff 1px solid;	
+	border:2; 	 
+}
+
+
+.stdRadio {
+	clear: both;
+	height: 16px;
+	width:  16px;
+    color: #0080ff;
+    margin:5px 10px  ;
+}
+
+.stdBtn {
+	clear: both;
+	height: 30px;
+	width:160px;
+	font-size:48px;
+    color: #777;
+}
+
+.companyInfo {
+	font-size:48px;
+    color: #777;
+}
+
+
+ 
+
+.divCenter{
+	marign:auto;
+	width:220px;
+}
+
+#wrap{
+    position:fixed;
+    top:10%;
+    left:0;
+    width:100%;
+    background-color:#ffffff;
+}
+
+#cen{
+    position:relative;
+    height:1000px;
+    top:100px;
+    width:540px;
+    margin:0px auto;
+    background-color:#ffffe5;
+    border:1px solid #000;
+}
+
+
+/* WebKit browsers */
+::-webkit-input-placeholder {
+	color: #777;
+}
+/* Mozilla Firefox 4 to 18 */
+:-moz-placeholder {
+	color: #777;
+	opacity: 1;
+}
+/* Mozilla Firefox 19+ */
+::-moz-placeholder {
+	color: #777;
+	opacity: 1;
+}
+/* Internet Explorer 10+ */
+:-ms-input-placeholder {
+	color: #777;
+}

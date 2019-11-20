@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+
+	
+<head>
+<meta charset="UTF-8">
+  
+	<link rel="shortcut icon" href="bnkz96.ico" type="images/x-icon"/>
+	<link rel="stylesheet" type="text/css" href="./style.css" />
+	<link rel="stylesheet" type="text/css" href="./mycss.css" />
+	
+	<script src="./css/jquery.min.js"></script>
+	<script src="./yundx_reg.js"> </script>
+	
+	
+<title>感受 css </title>
+
+    
+
+</head>
+<body>
+ 
+
+<div id="cen">
+    <br /> 
+    <h2 style=" color: #3366ff; "> 申请 注册 </h2> 
+    <br /> 
+	<form   id="stockUserInfoID" action="" method="get"    > 
+	
+	
+	    <!--  证券公司 -->
+	    <fieldset   ><br />
+			<input type="text"  id="companyNameID" class="stdInput"  value="请选择证券公司" />	
+			<br /><br />
+	
+			<div id = "companylistid"  style="display:none;"  >
+
+			<label><input name="Fruit" type="radio" value="" />方正证券1 </label>  
+	
+			<label><input name="Fruit" type="radio" value="fzzq2" id="check_12_id" onclick="javascript:CompanyCheck2(this.id) " />方正证券5  </label>
+	
+			<label><input name="Fruit" type="radio" value="fzzq" id="check_11_id" onclick="javascript:CompanyCheck2(this.id) " />方正证券6  </label>
+			</div> 
+		</fieldset>
+		<br />
+			
+	    <!--  证券公司账号 -->
+	    <fieldset   ><br />
+			<input type="text"  id="stockuserID" class="stdInput"  value="请输入证券公司账号"   />	
+			<br /> <br/> 
+
+		</fieldset>
+		<br />
+	
+	
+
+		
+		
+		<!--  证券营业厅  -->
+		<fieldset  ><br />
+		
+		<input type="text"  id="companyyybID" class="stdInput"  value="请选择证券营业厅" 
+		 " />	
+		<br /><br />
+
+		<div id = "companyyyblistid"  style="display:none; text-align:left; " >
+				
+
+		<label><input name="yybGroup" type="radio" value="yyb1" />总部1 </label>  
+		<label><input name="yybGroup" type="radio" value="yyb2" id="check_12_id" onclick="javascript:CompanyCheck2(this.id) " />方正证券5  </label>
+		<label><input name="yybGroup" type="radio" value="yyb3" id="check_11_id" onclick="javascript:CompanyCheck2(this.id) " />方正证券6  </label>
+		</div> 
+		</fieldset>
+		
+		<br />
+		
+		<fieldset>
+ 
+		<input   type="button"  class="stdBtn" value="测试" onclick="fnTestClick() " />
+		 </fieldset>
+		</form> 
+
+</div>
+
+
+<div  id="div_txt_company"> 所有证券公司  </div>
+
+
+
+
+</body>
+</html>

@@ -1,0 +1,2534 @@
+BODY {
+	FONT-SIZE: 12px; FONT-FAMILY: Arial, Helvetica, sans-serif; BACKGROUND-COLOR: #edebeb
+}
+HTML {
+	BORDER-TOP-WIDTH: 0px; PADDING-RIGHT: 0px; PADDING-LEFT: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; VERTICAL-ALIGN: baseline; PADDING-TOP: 0px; BORDER-RIGHT-WIDTH: 0px
+}
+BODY {
+	BORDER-TOP-WIDTH: 0px; PADDING-RIGHT: 0px; PADDING-LEFT: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; VERTICAL-ALIGN: baseline; PADDING-TOP: 0px; BORDER-RIGHT-WIDTH: 0px
+}
+DIV {
+	BORDER-TOP-WIDTH: 0px; PADDING-RIGHT: 0px; PADDING-LEFT: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; VERTICAL-ALIGN: baseline; PADDING-TOP: 0px; BORDER-RIGHT-WIDTH: 0px
+}
+SPAN {
+	BORDER-TOP-WIDTH: 0px; PADDING-RIGHT: 0px; PADDING-LEFT: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; VERTICAL-ALIGN: baseline; PADDING-TOP: 0px; BORDER-RIGHT-WIDTH: 0px
+}
+IFRAME {
+	BORDER-TOP-WIDTH: 0px; PADDING-RIGHT: 0px; PADDING-LEFT: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; VERTICAL-ALIGN: baseline; PADDING-TOP: 0px; BORDER-RIGHT-WIDTH: 0px
+}
+H1 {
+	BORDER-TOP-WIDTH: 0px; PADDING-RIGHT: 0px; PADDING-LEFT: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; VERTICAL-ALIGN: baseline; PADDING-TOP: 0px; BORDER-RIGHT-WIDTH: 0px
+}
+H2 {
+	BORDER-TOP-WIDTH: 0px; PADDING-RIGHT: 0px; PADDING-LEFT: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; VERTICAL-ALIGN: baseline; PADDING-TOP: 0px; BORDER-RIGHT-WIDTH: 0px
+}
+H3 {
+	BORDER-TOP-WIDTH: 0px; PADDING-RIGHT: 0px; PADDING-LEFT: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; VERTICAL-ALIGN: baseline; PADDING-TOP: 0px; BORDER-RIGHT-WIDTH: 0px
+}
+H4 {
+	BORDER-TOP-WIDTH: 0px; PADDING-RIGHT: 0px; PADDING-LEFT: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; VERTICAL-ALIGN: baseline; PADDING-TOP: 0px; BORDER-RIGHT-WIDTH: 0px
+}
+H5 {
+	BORDER-TOP-WIDTH: 0px; PADDING-RIGHT: 0px; PADDING-LEFT: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; VERTICAL-ALIGN: baseline; PADDING-TOP: 0px; BORDER-RIGHT-WIDTH: 0px
+}
+H6 {
+	BORDER-TOP-WIDTH: 0px; PADDING-RIGHT: 0px; PADDING-LEFT: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; VERTICAL-ALIGN: baseline; PADDING-TOP: 0px; BORDER-RIGHT-WIDTH: 0px
+}
+PRE {
+	BORDER-TOP-WIDTH: 0px; PADDING-RIGHT: 0px; PADDING-LEFT: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; VERTICAL-ALIGN: baseline; PADDING-TOP: 0px; BORDER-RIGHT-WIDTH: 0px
+}
+A {
+	BORDER-TOP-WIDTH: 0px; PADDING-RIGHT: 0px; PADDING-LEFT: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; VERTICAL-ALIGN: baseline; PADDING-TOP: 0px; BORDER-RIGHT-WIDTH: 0px
+}
+EM {
+	BORDER-TOP-WIDTH: 0px; PADDING-RIGHT: 0px; PADDING-LEFT: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; VERTICAL-ALIGN: baseline; PADDING-TOP: 0px; BORDER-RIGHT-WIDTH: 0px
+}
+FONT {
+	BORDER-TOP-WIDTH: 0px; PADDING-RIGHT: 0px; PADDING-LEFT: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; VERTICAL-ALIGN: baseline; PADDING-TOP: 0px; BORDER-RIGHT-WIDTH: 0px
+}
+IMG {
+	BORDER-TOP-WIDTH: 0px; PADDING-RIGHT: 0px; PADDING-LEFT: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; VERTICAL-ALIGN: baseline; PADDING-TOP: 0px; BORDER-RIGHT-WIDTH: 0px
+}
+SMALL {
+	BORDER-TOP-WIDTH: 0px; PADDING-RIGHT: 0px; PADDING-LEFT: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; VERTICAL-ALIGN: baseline; PADDING-TOP: 0px; BORDER-RIGHT-WIDTH: 0px
+}
+STRIKE {
+	BORDER-TOP-WIDTH: 0px; PADDING-RIGHT: 0px; PADDING-LEFT: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; VERTICAL-ALIGN: baseline; PADDING-TOP: 0px; BORDER-RIGHT-WIDTH: 0px
+}
+STRONG {
+	BORDER-TOP-WIDTH: 0px; PADDING-RIGHT: 0px; PADDING-LEFT: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; VERTICAL-ALIGN: baseline; PADDING-TOP: 0px; BORDER-RIGHT-WIDTH: 0px
+}
+SUB {
+	BORDER-TOP-WIDTH: 0px; PADDING-RIGHT: 0px; PADDING-LEFT: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; VERTICAL-ALIGN: baseline; PADDING-TOP: 0px; BORDER-RIGHT-WIDTH: 0px
+}
+SUP {
+	BORDER-TOP-WIDTH: 0px; PADDING-RIGHT: 0px; PADDING-LEFT: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; VERTICAL-ALIGN: baseline; PADDING-TOP: 0px; BORDER-RIGHT-WIDTH: 0px
+}
+B {
+	BORDER-TOP-WIDTH: 0px; PADDING-RIGHT: 0px; PADDING-LEFT: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; VERTICAL-ALIGN: baseline; PADDING-TOP: 0px; BORDER-RIGHT-WIDTH: 0px
+}
+U {
+	BORDER-TOP-WIDTH: 0px; PADDING-RIGHT: 0px; PADDING-LEFT: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; VERTICAL-ALIGN: baseline; PADDING-TOP: 0px; BORDER-RIGHT-WIDTH: 0px
+}
+I {
+	BORDER-TOP-WIDTH: 0px; PADDING-RIGHT: 0px; PADDING-LEFT: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; VERTICAL-ALIGN: baseline; PADDING-TOP: 0px; BORDER-RIGHT-WIDTH: 0px
+}
+CENTER {
+	BORDER-TOP-WIDTH: 0px; PADDING-RIGHT: 0px; PADDING-LEFT: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; VERTICAL-ALIGN: baseline; PADDING-TOP: 0px; BORDER-RIGHT-WIDTH: 0px
+}
+OL {
+	BORDER-TOP-WIDTH: 0px; PADDING-RIGHT: 0px; PADDING-LEFT: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; VERTICAL-ALIGN: baseline; PADDING-TOP: 0px; BORDER-RIGHT-WIDTH: 0px
+}
+UL {
+	BORDER-TOP-WIDTH: 0px; PADDING-RIGHT: 0px; PADDING-LEFT: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; VERTICAL-ALIGN: baseline; PADDING-TOP: 0px; BORDER-RIGHT-WIDTH: 0px
+}
+LI {
+	BORDER-TOP-WIDTH: 0px; PADDING-RIGHT: 0px; PADDING-LEFT: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; VERTICAL-ALIGN: baseline; PADDING-TOP: 0px; BORDER-RIGHT-WIDTH: 0px
+}
+FIELDSET {
+	BORDER-TOP-WIDTH: 0px; PADDING-RIGHT: 0px; PADDING-LEFT: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; VERTICAL-ALIGN: baseline; PADDING-TOP: 0px; BORDER-RIGHT-WIDTH: 0px
+}
+LABEL {
+	BORDER-TOP-WIDTH: 0px; PADDING-RIGHT: 0px; PADDING-LEFT: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; VERTICAL-ALIGN: baseline; PADDING-TOP: 0px; BORDER-RIGHT-WIDTH: 0px
+}
+TBODY {
+	BORDER-TOP-WIDTH: 0px; PADDING-RIGHT: 0px; PADDING-LEFT: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; VERTICAL-ALIGN: baseline; PADDING-TOP: 0px; BORDER-RIGHT-WIDTH: 0px
+}
+TFOOT {
+	BORDER-TOP-WIDTH: 0px; PADDING-RIGHT: 0px; PADDING-LEFT: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; VERTICAL-ALIGN: baseline; PADDING-TOP: 0px; BORDER-RIGHT-WIDTH: 0px
+}
+THEAD {
+	BORDER-TOP-WIDTH: 0px; PADDING-RIGHT: 0px; PADDING-LEFT: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; VERTICAL-ALIGN: baseline; PADDING-TOP: 0px; BORDER-RIGHT-WIDTH: 0px
+}
+TH {
+	BORDER-TOP-WIDTH: 0px; PADDING-RIGHT: 0px; PADDING-LEFT: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; VERTICAL-ALIGN: baseline; PADDING-TOP: 0px; BORDER-RIGHT-WIDTH: 0px
+}
+TABLE {
+	BORDER-COLLAPSE: collapse; border-spacing: 0
+}
+IMG {
+	BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none
+}
+.left {
+	FLOAT: left! important
+}
+.right {
+	FLOAT: right
+}
+.clear {
+	CLEAR: both; BACKGROUND: none transparent scroll repeat 0% 0%; HEIGHT: 1px
+}
+.opacity80:hover {
+	FILTER: alpha(opacity=80); CURSOR: pointer; ZOOM: 1; opacity: 0.80; -moz-opacity: 0.80; -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(opacity=80)"
+}
+.opacity80 A:hover {
+	FILTER: alpha(opacity=80); ZOOM: 1; opacity: 0.80; -moz-opacity: 0.80; -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(opacity=80)"
+}
+.opacity90:hover {
+	FILTER: alpha(opacity=90); CURSOR: pointer; ZOOM: 1; opacity: 0.90; -moz-opacity: 0.90; -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(opacity=90)"
+}
+.opacity90 A:hover {
+	FILTER: alpha(opacity=90); ZOOM: 1; opacity: 0.90; -moz-opacity: 0.90; -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(opacity=90)"
+}
+.no-border {
+	BORDER-TOP-STYLE: none! important; BORDER-RIGHT-STYLE: none! important; BORDER-LEFT-STYLE: none! important; BORDER-BOTTOM-STYLE: none! important
+}
+.margin0 {
+	MARGIN: 0px
+}
+.margintop0 {
+	MARGIN-TOP: 0px! important
+}
+.margintop5 {
+	MARGIN-TOP: 5px
+}
+.margintop10 {
+	MARGIN-TOP: 10px
+}
+.margintop15 {
+	MARGIN-TOP: 15px
+}
+.margintop20 {
+	MARGIN-TOP: 20px
+}
+.marginv10 {
+	MARGIN: 10px 0px
+}
+.marginbtm0 {
+	MARGIN-BOTTOM: 0px! important
+}
+.marginbtm5 {
+	MARGIN-BOTTOM: 5px
+}
+.marginbtm10 {
+	MARGIN-BOTTOM: 10px! important
+}
+.marginbtm15 {
+	MARGIN-BOTTOM: 15px
+}
+.marginbtm20 {
+	MARGIN-BOTTOM: 20px
+}
+.marginbtm25 {
+	MARGIN-BOTTOM: 25px
+}
+.marginbtm30 {
+	MARGIN-BOTTOM: 30px
+}
+.margintb20 {
+	MARGIN: 20px 0px
+}
+.marginr5 {
+	MARGIN-RIGHT: 5px
+}
+.marginr10 {
+	MARGIN-RIGHT: 10px
+}
+.marginr20 {
+	MARGIN-RIGHT: 20px
+}
+.marginl20 {
+	MARGIN-LEFT: 20px
+}
+.marginl15 {
+	MARGIN-LEFT: 15px
+}
+.marginl5 {
+	MARGIN-LEFT: 5px
+}
+.marginrb3 {
+	MARGIN: 0px 3px 3px 0px
+}
+.displaynone {
+	DISPLAY: none
+}
+.inline {
+	DISPLAY: inline
+}
+.block {
+	DISPLAY: block
+}
+.hidden {
+	OVERFLOW: hidden
+}
+.hide {
+	VISIBILITY: hidden
+}
+LI.li-nostyle {
+	LIST-STYLE-TYPE: none
+}
+.pad-tb10 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 10px; PADDING-TOP: 10px
+}
+.pad-t10 {
+	PADDING-TOP: 10px
+}
+.pad-t15 {
+	PADDING-TOP: 15px
+}
+.pad-t5 {
+	PADDING-TOP: 5px
+}
+.pad-l3 {
+	PADDING-LEFT: 3px
+}
+.pad-r5 {
+	PADDING-RIGHT: 5px
+}
+.pad-r10 {
+	PADDING-RIGHT: 10px
+}
+.pad-r20 {
+	PADDING-RIGHT: 20px
+}
+.pad-l25 {
+	PADDING-LEFT: 25px
+}
+.pad5 {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 5px; PADDING-BOTTOM: 5px; PADDING-TOP: 5px
+}
+.pad-b5 {
+	PADDING-BOTTOM: 5px
+}
+.pad-b3 {
+	PADDING-BOTTOM: 3px
+}
+.pad-b2 {
+	PADDING-BOTTOM: 2px
+}
+.pad10 {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 10px; PADDING-BOTTOM: 10px; PADDING-TOP: 10px
+}
+.pad15 {
+	PADDING-RIGHT: 15px; PADDING-LEFT: 15px; PADDING-BOTTOM: 15px; PADDING-TOP: 15px
+}
+.pad-l5 {
+	PADDING-LEFT: 5px
+}
+.center {
+	TEXT-ALIGN: center
+}
+.center-margin {
+	MARGIN: 0px auto; TEXT-ALIGN: center
+}
+.lh18 {
+	LINE-HEIGHT: 18px
+}
+.lh21 {
+	LINE-HEIGHT: 21px
+}
+.lh25 {
+	LINE-HEIGHT: 25px
+}
+.width640 {
+	WIDTH: 640px
+}
+.width630 {
+	WIDTH: 630px
+}
+.width305 {
+	WIDTH: 305px
+}
+.dotted-bg {
+	FONT-WEIGHT: bold; FONT-SIZE: 14px; BACKGROUND: url(http://i.investopedia.com/inv/icons/dotted-bg.gif) no-repeat; FLOAT: left; WIDTH: 26px; PADDING-TOP: 8px; FONT-FAMILY: Georgia, "Times New Roman", Times, serif; HEIGHT: 25px; TEXT-ALIGN: center
+}
+.list-red-arrow UL {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+.list-red-arrow LI {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 10px; LIST-STYLE-POSITION: outside; BACKGROUND: url(http://i.investopedia.com/inv/icons/red-arrow.gif) no-repeat 0px 4px; PADDING-BOTTOM: 5px; PADDING-TOP: 0px; LIST-STYLE-TYPE: none
+}
+.dotted-btm-border {
+	PADDING-BOTTOM: 2px; BORDER-BOTTOM: #dadada 1px dotted
+}
+.loading {
+	BACKGROUND-POSITION: center 50%; BACKGROUND-IMAGE: url(http://i.investopedia.com/inv/general/loading.gif); OVERFLOW: hidden; WIDTH: 16px; TEXT-INDENT: -1999px; BACKGROUND-REPEAT: no-repeat; BACKGROUND-COLOR: #fff! important
+}
+.inv-body {
+	PADDING-RIGHT: 15px; PADDING-LEFT: 15px; PADDING-BOTTOM: 15px; OVERFLOW: hidden; WIDTH: 985px; PADDING-TOP: 15px
+}
+.inv-cont {
+	BORDER-RIGHT: #d1d1d1 1px solid; BORDER-TOP: #d1d1d1 1px solid; MARGIN: 0px auto; BORDER-LEFT: #d1d1d1 1px solid; WIDTH: 1015px; BORDER-BOTTOM: #d1d1d1 1px solid; BACKGROUND-COLOR: #fff
+}
+.inv-1015-cont {
+	OVERFLOW: hidden; WIDTH: 1015px
+}
+.left-675-col {
+	PADDING-RIGHT: 0px; FLOAT: left; WIDTH: 675px
+}
+.right-300-col {
+	FLOAT: right; WIDTH: 310px
+}
+.left-664-col {
+	PADDING-RIGHT: 10px; MIN-HEIGHT: 400px; FLOAT: left; WIDTH: 664px
+}
+.right-300-col-border {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 15px; FLOAT: left; PADDING-BOTTOM: 15px; BORDER-LEFT: #dfdfdf 1px solid; WIDTH: 300px; PADDING-TOP: 0px
+}
+.left-665-col {
+	FLOAT: left; WIDTH: 665px
+}
+.left-640-col {
+	FLOAT: left; WIDTH: 630px
+}
+.left-630-col {
+	FLOAT: left; WIDTH: 630px
+}
+.left-638-col {
+	FLOAT: left; WIDTH: 638px
+}
+.right-330-col {
+	FLOAT: right; WIDTH: 330px
+}
+.left-570-col {
+	FLOAT: left; WIDTH: 570px
+}
+.right-390-col {
+	FLOAT: right; WIDTH: 390px
+}
+.left-312-col {
+	FLOAT: left; WIDTH: 312px
+}
+.left-270-col {
+	FLOAT: left; WIDTH: 270px
+}
+.left-290-col {
+	FLOAT: left; WIDTH: 290px
+}
+.left-350-col {
+	FLOAT: left; WIDTH: 350px
+}
+.right-312-col {
+	FLOAT: right; WIDTH: 312px
+}
+.col-410 {
+	FLOAT: left; WIDTH: 410px; MARGIN-RIGHT: 20px
+}
+.col-400 {
+	FLOAT: left; WIDTH: 400px; MARGIN-RIGHT: 20px
+}
+.col-210 {
+	MARGIN-TOP: 20px; FLOAT: right; WIDTH: 210px
+}
+.essentials-col-top {
+	BORDER-RIGHT: #ededed 5px solid; PADDING-RIGHT: 10px; BORDER-TOP: #ededed 5px; MARGIN-TOP: -5px; PADDING-LEFT: 10px; FLOAT: left; PADDING-BOTTOM: 0px; BORDER-LEFT: #ededed 5px solid; WIDTH: 180px; PADDING-TOP: 0px; BORDER-BOTTOM: #ededed 5px
+}
+.essentials-col-btm {
+	BORDER-RIGHT: #ededed 5px solid; PADDING-RIGHT: 10px; BORDER-TOP: #ededed 5px; PADDING-LEFT: 10px; FLOAT: left; PADDING-BOTTOM: 0px; BORDER-LEFT: #ededed 5px solid; WIDTH: 180px; PADDING-TOP: 10px; BORDER-BOTTOM: #ededed 5px solid
+}
+.investopedia-content {
+	MARGIN: 25px 0px 0px; WIDTH: 995px
+}
+H1 {
+	FONT-SIZE: 22px
+}
+H1.articles {
+	FONT-WEIGHT: normal; FONT-SIZE: 30px; MARGIN-BOTTOM: 10px; FONT-FAMILY: Georgia, "Times New Roman", Times, serif
+}
+H1.headers {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-WEIGHT: normal; FONT-SIZE: 25px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px; FONT-FAMILY: Georgia, "Times New Roman", Times, serif
+}
+H1.white {
+	FONT-SIZE: 22px; COLOR: #fff
+}
+H1.dictionary-tod {
+	FONT-WEIGHT: normal; MARGIN: 15px 0px 5px; FONT-FAMILY: Georgia, "Times New Roman", Times, serif
+}
+H1.dictionary-tod A {
+	COLOR: #fff; TEXT-DECORATION: none
+}
+H1.dictionary-tod A:hover {
+	COLOR: #ccc
+}
+H2 {
+	FONT-SIZE: 14px
+}
+H2.last-slide {
+	FONT-SIZE: 18px
+}
+H2.blue {
+	FONT-WEIGHT: bold; FONT-SIZE: 16px; PADDING-BOTTOM: 7px; LINE-HEIGHT: 18px; FONT-FAMILY: Georgia, Times New Roman, Serif
+}
+H2.white {
+	FONT-SIZE: 14px; COLOR: #fff
+}
+H2.white A {
+	COLOR: #fff; TEXT-DECORATION: none
+}
+H2.underline {
+	FONT-SIZE: 13px; PADDING-BOTTOM: 5px; MARGIN: 20px 0px 10px; BORDER-BOTTOM: #abbbcc 2px solid; FONT-FAMILY: Georgia, "Times New Roman", Times, serif
+}
+H2.underline-top-mod {
+	FONT-SIZE: 13px; PADDING-BOTTOM: 5px; BORDER-BOTTOM: #abbbcc 2px solid; FONT-FAMILY: Georgia, "Times New Roman", Times, serif
+}
+H2.underline-btm-mod {
+	MARGIN-TOP: 20px; FONT-SIZE: 13px; PADDING-BOTTOM: 5px; BORDER-BOTTOM: #abbbcc 2px solid; FONT-FAMILY: Georgia, "Times New Roman", Times, serif
+}
+H2.black-grey-header {
+	PADDING-RIGHT: 0px; BORDER-TOP: #333 4px solid; PADDING-LEFT: 10px; PADDING-BOTTOM: 8px; PADDING-TOP: 8px; FONT-FAMILY: Georgia, "Times New Roman", Times, serif; BACKGROUND-COLOR: #f4f4f4
+}
+H2.rss-feed {
+	FONT-SIZE: 14px
+}
+H2.dict-more-on-title {
+	DISPLAY: inline
+}
+H2.dictionary {
+	FONT-WEIGHT: normal; FONT-SIZE: 18px; MARGIN: 10px 0px; FONT-FAMILY: Georgia, "Times New Roman", Times, serif
+}
+H2.mod-tod-title {
+	FONT-WEIGHT: normal; FONT-SIZE: 18px; COLOR: #255473; FONT-FAMILY: Georgia, "Times New Roman", Times, serif
+}
+H2.mod-tod-title-hp {
+	FONT-SIZE: 18px; COLOR: #000; FONT-FAMILY: Georgia, "Times New Roman", Times, serif
+}
+H2.mod-tod-title-hp A {
+	COLOR: #000
+}
+H3 {
+	FONT-SIZE: 14px
+}
+H3.overlined {
+	PADDING-RIGHT: 0px; BORDER-TOP: #abbbcc 3px solid; PADDING-LEFT: 0px; FONT-WEIGHT: bold; FONT-SIZE: 14px; PADDING-BOTTOM: 6px; MARGIN: 15px 0px 10px; PADDING-TOP: 6px; BORDER-BOTTOM: #d6d6d6 1px dotted; FONT-FAMILY: Georgia, Times New Roman, Serif
+}
+H5.overlined {
+	PADDING-RIGHT: 0px; BORDER-TOP: #abbbcc 3px solid; PADDING-LEFT: 0px; FONT-WEIGHT: bold; FONT-SIZE: 14px; MARGIN-BOTTOM: 10px; PADDING-BOTTOM: 6px; PADDING-TOP: 6px; BORDER-BOTTOM: #d6d6d6 1px dotted; FONT-FAMILY: Georgia, Times New Roman, Serif
+}
+H3.ss-h3-title {
+	FONT-SIZE: 13px; MIN-HEIGHT: 30px; PADDING-TOP: 10px
+}
+H4 {
+	FONT-SIZE: 18px
+}
+.underline {
+	FONT-SIZE: 13px; PADDING-BOTTOM: 5px; MARGIN: 20px 0px 10px; BORDER-BOTTOM: #abbbcc 2px solid; FONT-FAMILY: Georgia, "Times New Roman", Times, serif
+}
+.black-caps {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; PADDING-BOTTOM: 5px; TEXT-TRANSFORM: uppercase; COLOR: black
+}
+.black-caps A:link {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; TEXT-TRANSFORM: uppercase; COLOR: black; TEXT-DECORATION: none
+}
+.black-caps A:visited {
+	FONT-WEIGHT: bold! important; FONT-SIZE: 11px; TEXT-TRANSFORM: uppercase; COLOR: #000! important; TEXT-DECORATION: none
+}
+.black-caps A:hover {
+	COLOR: #1e7aaf
+}
+.grey-date {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-WEIGHT: normal; FONT-SIZE: 11px; PADDING-BOTTOM: 2px; TEXT-TRANSFORM: uppercase; COLOR: #909090; PADDING-TOP: 2px
+}
+.grey-date A:link {
+	FONT-WEIGHT: normal; FONT-SIZE: 11px; TEXT-TRANSFORM: uppercase; COLOR: #909090; TEXT-DECORATION: none
+}
+.black-caps A:visited {
+	FONT-WEIGHT: normal; FONT-SIZE: 11px; TEXT-TRANSFORM: uppercase; COLOR: #909090; TEXT-DECORATION: none
+}
+.grey-date A:hover {
+	COLOR: #1e7aaf
+}
+.underline-text {
+	FONT-SIZE: 13px; MARGIN-BOTTOM: 10px; PADDING-BOTTOM: 5px; BORDER-BOTTOM: #abbbcc 2px solid; FONT-FAMILY: Georgia, "Times New Roman", Times, serif
+}
+H4.term-alphabet {
+	FONT-SIZE: 11px; FONT-FAMILY: Georgia, "Times New Roman", Times, serif
+}
+H4.dict-add-def-title {
+	FONT-SIZE: 13px; FONT-FAMILY: Georgia, "Times New Roman", Times, serif
+}
+.overlined-title-grey A {
+	COLOR: #000! important; TEXT-DECORATION: none
+}
+.overlined-title-grey A:active {
+	COLOR: #000! important; TEXT-DECORATION: none
+}
+.overlined-title-grey A:hover {
+	COLOR: #255473! important
+}
+H6 {
+	FONT-WEIGHT: bold; FONT-SIZE: 14px; COLOR: #000; FONT-FAMILY: Georgia, "Times New Roman", Times, serif
+}
+.overlined-color {
+	PADDING-RIGHT: 0px; BORDER-TOP: #d2c9b9 3px solid; MARGIN-TOP: 10px; PADDING-LEFT: 0px; MARGIN-BOTTOM: 10px; PADDING-BOTTOM: 6px; PADDING-TOP: 6px; BORDER-BOTTOM: #d2c9b9 1px dotted
+}
+.underlined-title A {
+	COLOR: #000! important; TEXT-DECORATION: none
+}
+.underlined-title A:hover {
+	COLOR: #255473! important
+}
+.underlined-title A:active {
+	COLOR: #000! important; TEXT-DECORATION: none
+}
+.overlined-title {
+	BORDER-TOP: #abbbcc 3px solid; FONT-WEIGHT: bold; FONT-SIZE: 11px; MARGIN: 20px 0px 10px; OVERFLOW: hidden; PADDING-TOP: 5px
+}
+.overlined-title A {
+	COLOR: #000! important; TEXT-DECORATION: none
+}
+.overlined-title A:hover {
+	COLOR: #255473! important
+}
+.overlined-title A:active {
+	COLOR: #000! important; TEXT-DECORATION: none
+}
+.overlined-title-grey {
+	BORDER-TOP: #666666 3px solid; FONT-WEIGHT: bold; FONT-SIZE: 11px; MARGIN: 20px 0px 10px; OVERFLOW: hidden; PADDING-TOP: 5px
+}
+.underlined-title2 {
+	FONT-WEIGHT: bold; FONT-SIZE: 16px; PADDING-BOTTOM: 5px; MARGIN: 17px 0px 10px; OVERFLOW: hidden; BORDER-BOTTOM: #7e0a08 2px solid; FONT-FAMILY: Georgia, "Times New Roman", Times, serif
+}
+.underlined-title2 A {
+	COLOR: #000! important; TEXT-DECORATION: none
+}
+.underlined-title2 A:hover {
+	COLOR: #255473! important
+}
+.underlined-title2 A:active {
+	COLOR: #000! important; TEXT-DECORATION: none
+}
+.underlined-title {
+	FONT-WEIGHT: bold; FONT-SIZE: 16px; PADDING-BOTTOM: 5px; MARGIN: 17px 0px 10px; OVERFLOW: hidden; BORDER-BOTTOM: #abbbcc 2px solid; FONT-FAMILY: Georgia, "Times New Roman", Times, serif
+}
+.title {
+	FONT-WEIGHT: bold; FONT-SIZE: 16px; MARGIN: 17px 0px 0px; OVERFLOW: hidden; FONT-FAMILY: Georgia, "Times New Roman", Times, serif
+}
+.underlined-title-sm {
+	FONT-SIZE: 11px; PADDING-BOTTOM: 5px; MARGIN: 17px 0px 10px; BORDER-BOTTOM: #abbbcc 1px solid; FONT-FAMILY: Georgia, "Times New Roman", Times, serif
+}
+.underlined-title-sm-top {
+	FONT-SIZE: 11px; PADDING-BOTTOM: 5px; MARGIN: 0px 0px 10px; BORDER-BOTTOM: #abbbcc 1px solid; FONT-FAMILY: Georgia, "Times New Roman", Times, serif
+}
+.title16top {
+	FONT-WEIGHT: bold; FONT-SIZE: 16px; MARGIN: 20px 0px 3px; FONT-FAMILY: Georgia, "Times New Roman", Times, serif
+}
+.title16 {
+	FONT-WEIGHT: bold; FONT-SIZE: 16px; MARGIN: 20px 0px 3px; FONT-FAMILY: Georgia, "Times New Roman", Times, serif
+}
+A:link {
+	COLOR: #093d72
+}
+A:visited {
+	COLOR: #093d72
+}
+A:hover {
+	COLOR: #94000b
+}
+A:hover:visited {
+	COLOR: #94000b
+}
+.link-underline-blk A {
+	COLOR: #000; TEXT-DECORATION: none
+}
+.link-underline-blk A:visited {
+	COLOR: #000; TEXT-DECORATION: none
+}
+.link-underline-blk A:hover {
+	COLOR: #94000b; TEXT-DECORATION: none
+}
+.link-underline-blk A:hover:visited {
+	COLOR: #94000b; TEXT-DECORATION: none
+}
+.fontgeorgia {
+	FONT-FAMILY: Georgia, "Times New Roman", Times, serif
+}
+.fontarial {
+	FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.fontbold {
+	FONT-WEIGHT: bold
+}
+.fontitalic {
+	FONT-STYLE: italic
+}
+.fontnormal {
+	FONT-WEIGHT: normal
+}
+.font9 {
+	FONT-SIZE: 9px
+}
+.font10 {
+	FONT-SIZE: 10px
+}
+.font11 {
+	FONT-SIZE: 11px
+}
+.font13 {
+	FONT-SIZE: 13px! important
+}
+.font14 {
+	FONT-SIZE: 14px
+}
+.font14-lh {
+	FONT-SIZE: 14px; LINE-HEIGHT: 21px
+}
+.font16 {
+	FONT-SIZE: 16px
+}
+.fontred {
+	COLOR: #94000b
+}
+.fontblack {
+	COLOR: #000
+}
+.fontltgrey {
+	COLOR: #a9a8a8
+}
+.fontgrey {
+	COLOR: #909090
+}
+.fontdrkgrey {
+	COLOR: #414141
+}
+.fontgreen {
+	COLOR: #236413
+}
+.fontred {
+	COLOR: #94000b
+}
+.fontblue {
+	COLOR: #255473
+}
+.fontltblue {
+	COLOR: #255473
+}
+.linkblue A {
+	COLOR: #255473
+}
+A.linkblue {
+	COLOR: #255473! important
+}
+.linkgrey A:link {
+	COLOR: #909090
+}
+.linkgrey A:visited {
+	COLOR: #909090
+}
+.linkgrey A:hover {
+	COLOR: #1e7aaf
+}
+.bold {
+	FONT-WEIGHT: bold
+}
+.linkwhite A:link {
+	COLOR: #fff; TEXT-DECORATION: none
+}
+.linkwhite A:visited {
+	COLOR: #fff; TEXT-DECORATION: none
+}
+.linkwhite A:hover {
+	TEXT-DECORATION: underline
+}
+.linkltgrey A {
+	COLOR: #a9a8a8
+}
+.white {
+	COLOR: #fff
+}
+.uppercase {
+	TEXT-TRANSFORM: uppercase
+}
+.link-underline A {
+	TEXT-DECORATION: none
+}
+.link-underline A:hover {
+	CURSOR: pointer
+}
+.login-inv-login-bar-new {
+	FONT-SIZE: 11px; MARGIN: 0px auto; WIDTH: 1015px; HEIGHT: 27px; BACKGROUND-COLOR: #3d3d3d
+}
+.login-inv-login-bar {
+	FONT-SIZE: 11px; BACKGROUND-IMAGE: url(http://i.investopedia.com/fxtrader/inv-login-bar.jpg); BACKGROUND-REPEAT: repeat-x; HEIGHT: 29px
+}
+.login-inv-small-logo {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 10px; FLOAT: left; PADDING-BOTTOM: 0px; WIDTH: 108px; PADDING-TOP: 7px
+}
+.login-bar-links {
+	FONT-WEIGHT: bold; FLOAT: left; WIDTH: 250px; COLOR: #ffffff; PADDING-TOP: 8px
+}
+.login-bar-links A:visited {
+	COLOR: #ffffff
+}
+.login-bar-login {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-WEIGHT: bold; FLOAT: right; PADDING-BOTTOM: 0px; MARGIN: 0px 5px 0px 0px; COLOR: #fff; PADDING-TOP: 8px
+}
+.login-bar-login A {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; COLOR: #ffffff; PADDING-TOP: 0px; TEXT-DECORATION: none
+}
+.login-bar-login A:visited {
+	COLOR: #fff
+}
+.login-bar-login A:hover {
+	COLOR: #fff; TEXT-DECORATION: none
+}
+.login-bar-links A {
+	COLOR: #ffffff; TEXT-DECORATION: none
+}
+.login-bar-links-new {
+	PADDING-LEFT: 10px; FLOAT: left; WIDTH: 280px; COLOR: #ffffff; PADDING-TOP: 7px
+}
+.login-bar-links-new A:visited {
+	COLOR: #ffffff
+}
+.login-bar-login-new {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FLOAT: right; PADDING-BOTTOM: 0px; MARGIN: 0px 5px 0px 0px; COLOR: #fff; PADDING-TOP: 8px
+}
+.login-bar-login-new A {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; COLOR: #ffffff; PADDING-TOP: 0px; TEXT-DECORATION: none
+}
+.login-bar-login-new A:visited {
+	COLOR: #fff
+}
+.login-bar-login-new A:hover {
+	COLOR: #fff; TEXT-DECORATION: none
+}
+.login-bar-links-new A {
+	COLOR: #ffffff; TEXT-DECORATION: none
+}
+.inv-leader-board-logo {
+	FLOAT: left; WIDTH: 241px
+}
+.inv-leader-board-logo-short {
+	FLOAT: left; WIDTH: 240px
+}
+.inv-leader-board {
+	BACKGROUND-IMAGE: url(http://i.investopedia.com/fxtrader/main-blue-header-bg.jpg); BACKGROUND-REPEAT: repeat-x; HEIGHT: 101px
+}
+.inv-leader-board-short {
+	BACKGROUND-IMAGE: url(http://i.investopedia.com/fxtrader/main-blue-header-bg-short.jpg); BACKGROUND-REPEAT: repeat-x; HEIGHT: 71px
+}
+.inv-leader-board-ad {
+	PADDING-RIGHT: 10px; FLOAT: right; MARGIN: 5px 0px 0px
+}
+.investopedia-navigation {
+	Z-INDEX: 2; POSITION: relative
+}
+#nav {
+	LIST-STYLE-TYPE: none
+}
+#nav UL {
+	LIST-STYLE-TYPE: none
+}
+#nav A {
+	PADDING-RIGHT: 20px; DISPLAY: block; PADDING-LEFT: 20px; PADDING-BOTTOM: 0px; COLOR: #255473; PADDING-TOP: 0px; TEXT-DECORATION: none
+}
+.nav-header {
+	BORDER-RIGHT: #ccd3d8 1px solid; FONT-WEIGHT: bold; BACKGROUND: url(http://i.investopedia.com/inv/new-nav/inv-nav-bg.jpg) repeat-x 50% top; FLOAT: left; BORDER-LEFT: #f0f3f5 1px solid; PADDING-TOP: 6px; HEIGHT: 24px; TEXT-ALIGN: center; TEXT-DECORATION: none
+}
+.nav-markets {
+	BORDER-RIGHT: #ccd3d8 1px solid; PADDING-LEFT: 4px! important; FONT-WEIGHT: bold; BACKGROUND: url(http://i.investopedia.com/inv/new-nav/markets-nav.jpg) repeat-x 50% top; FLOAT: left; BORDER-LEFT: #f0f3f5 1px solid; WIDTH: 87px; PADDING-TOP: 6px; HEIGHT: 24px; TEXT-DECORATION: none
+}
+.nav-header:hover {
+	BACKGROUND: url(http://i.investopedia.com/inv/new-nav/inv-nav-bg.jpg) repeat-x 50% bottom; FLOAT: left; HEIGHT: 24px
+}
+UL#nav {
+	WIDTH: 1015px
+}
+#nav LI UL {
+	MARGIN-TOP: 8px; LEFT: -999em; WIDTH: 170px; POSITION: absolute; BACKGROUND-COLOR: #fff; TEXT-ALIGN: left
+}
+.free-tools {
+	PADDING-RIGHT: 2px
+}
+#nav LI:hover UL {
+	LEFT: auto
+}
+#nav LI.sfhover UL {
+	LEFT: auto
+}
+UL.drop LI {
+	BORDER-RIGHT: #ccc 1px solid; PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-WEIGHT: 600; FONT-SIZE: 11px; PADDING-BOTTOM: 5px; BORDER-LEFT: #ccc 1px solid; PADDING-TOP: 5px; BORDER-BOTTOM: #ccc 1px solid
+}
+.drop-underline-top {
+	BORDER-TOP: #ccc 1px solid
+}
+UL.drop LI:hover {
+	COLOR: #255473; BACKGROUND-COLOR: #f2faff; TEXT-DECORATION: none
+}
+#sub-home-nav {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 10px; FONT-WEIGHT: bold; FONT-SIZE: 12px; FLOAT: left; PADDING-BOTTOM: 5px; WIDTH: 970px; COLOR: #a1aeb7; LINE-HEIGHT: 1.5em; PADDING-TOP: 5px; HEIGHT: 19px
+}
+#sub-home-nav A {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 5px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px
+}
+.sub-nav-tutorials {
+	MARGIN-LEFT: 230px
+}
+.sub-nav-exam {
+	MARGIN-LEFT: 100px
+}
+.sub-nav-sim {
+	MARGIN-LEFT: 470px
+}
+.sub-nav-ft {
+	MARGIN-LEFT: 219px
+}
+#nav LI UL.nav-free-ul {
+	WIDTH: 110px
+}
+A.nav-free-padding {
+	PADDING-LEFT: 18px! important
+}
+.new-nav {
+	BACKGROUND: url(http://i.investopedia.com/inv/new-nav/markets-nav.jpg); WIDTH: 92px
+}
+.new-nav:hover {
+	BACKGROUND: url(http://i.investopedia.com/inv/new-nav/markets-nav-hover.jpg); WIDTH: 92px
+}
+.new-nav-active {
+	BACKGROUND: url(http://i.investopedia.com/inv/new-nav/markets-nav-hover.jpg); WIDTH: 92px
+}
+.new-nav-active A {
+	COLOR: #a50511! important
+}
+.srch-292 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FLOAT: left; PADDING-BOTTOM: 0px; MARGIN: 0px auto; WIDTH: 450px; PADDING-TOP: 4px; TEXT-ALIGN: center
+}
+.srch-292 A {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #255473! important; TEXT-DECORATION: underline
+}
+.srch-nav {
+	WIDTH: 280px; HEIGHT: 19px
+}
+.srch-symbol {
+	WIDTH: 70px; HEIGHT: 19px
+}
+.search-btn {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; BACKGROUND: url(http://i.investopedia.com/inv/search/search-btnv3.jpg) no-repeat 50% top; PADDING-BOTTOM: 0px; MARGIN: 0px 5px 0px 0px; VERTICAL-ALIGN: bottom; WIDTH: 87px; CURSOR: pointer; BORDER-TOP-STYLE: none; PADDING-TOP: 0px; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; HEIGHT: 25px; BORDER-BOTTOM-STYLE: none
+}
+.search-btn:hover {
+	BACKGROUND: url(http://i.investopedia.com/inv/search/search-btnv3.jpg) no-repeat 50% bottom; HEIGHT: 25px
+}
+.symbol-btn {
+	BACKGROUND: url(http://i.investopedia.com/inv/search/gov2.jpg) no-repeat 50% top; VERTICAL-ALIGN: bottom; WIDTH: 38px; CURSOR: pointer; BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; HEIGHT: 25px; BORDER-BOTTOM-STYLE: none
+}
+.symbol-btn:hover {
+	BACKGROUND: url(http://i.investopedia.com/inv/search/gov2.jpg) no-repeat 50% bottom; HEIGHT: 25px
+}
+.srch-red-btn {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 5px; FONT-WEIGHT: bold; FONT-SIZE: 10px; PADDING-BOTTOM: 3px; VERTICAL-ALIGN: top; COLOR: #fff; BORDER-TOP-STYLE: none; PADDING-TOP: 3px; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BACKGROUND-COLOR: #bd2228; BORDER-BOTTOM-STYLE: none
+}
+.srch-red-btn:hover {
+	CURSOR: pointer; BACKGROUND-COLOR: #94000b
+}
+.hot-breadcrumbs {
+	MARGIN-BOTTOM: 10px; PADDING-BOTTOM: 10px; OVERFLOW: hidden; WIDTH: 995px
+}
+.hot-breadcrumbs A {
+	TEXT-DECORATION: none
+}
+.hot-breadcrumbs A:hover {
+	TEXT-DECORATION: underline
+}
+.hot-cont {
+	FONT-SIZE: 11px; FLOAT: right; WIDTH: 750px; TEXT-ALIGN: right
+}
+.hot-cont-nav {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 10px; FONT-SIZE: 11px; FLOAT: left; PADDING-BOTTOM: 10px; WIDTH: 970px; PADDING-TOP: 10px
+}
+.hot-title {
+	COLOR: #94000b
+}
+.crumb-cont {
+	FONT-SIZE: 11px; FLOAT: left; WIDTH: 170px; COLOR: #a9a8a8; TEXT-ALIGN: left
+}
+.ftr-bar {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 15px; PADDING-BOTTOM: 6px; OVERFLOW: hidden; PADDING-TOP: 6px; BORDER-BOTTOM: #020a0e 1px solid; BACKGROUND-COLOR: #06202e
+}
+.inv-ftr {
+	BORDER-TOP: #203946 1px solid; FONT-WEIGHT: bold; FONT-SIZE: 11px; OVERFLOW: hidden; WIDTH: 1015px; COLOR: #ffffff; LINE-HEIGHT: 22px; BACKGROUND-COLOR: #092636
+}
+.inv-ftr A {
+	FONT-WEIGHT: bold; COLOR: #ffffff; TEXT-DECORATION: none
+}
+A.ftr-blue-link {
+	COLOR: #a6c2ce
+}
+A.ftr-blue-link:visited {
+	COLOR: #a6c2ce
+}
+.ftr-col1 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 13px; FLOAT: left; PADDING-BOTTOM: 7px; WIDTH: 95px; PADDING-TOP: 15px
+}
+.ftr-col2 {
+	PADDING-RIGHT: 25px; PADDING-LEFT: 25px; FLOAT: left; PADDING-BOTTOM: 7px; WIDTH: 120px; PADDING-TOP: 15px
+}
+.ftr-col3 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FLOAT: left; PADDING-BOTTOM: 7px; WIDTH: 110px; LINE-HEIGHT: 24px; PADDING-TOP: 15px
+}
+.ftr-col4 {
+	PADDING-RIGHT: 13px; PADDING-LEFT: 25px; FLOAT: left; PADDING-BOTTOM: 0px; WIDTH: 280px; PADDING-TOP: 15px
+}
+.ftr-col-newsletter {
+	PADDING-RIGHT: 15px; PADDING-LEFT: 15px; FLOAT: right; PADDING-BOTTOM: 9px; BORDER-LEFT: #314a58 1px solid; WIDTH: 245px; LINE-HEIGHT: 13px; PADDING-TOP: 15px; BACKGROUND-COLOR: #1e3847
+}
+.ftr-dictionary-dd {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; MARGIN-BOTTOM: 10px; PADDING-BOTTOM: 15px; PADDING-TOP: 7px; BORDER-BOTTOM: #3f5662 1px solid
+}
+.ftr-dictionary-dd FORM {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+.ftr-dictionary-dd SELECT {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 11px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+.ftr-newsletter-input {
+	FONT-SIZE: 11px; MARGIN: 10px 0px 0px; WIDTH: 239px; COLOR: #888888
+}
+.ftr-newsletter-lcol {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 0px; FLOAT: left; PADDING-BOTTOM: 0px; WIDTH: 125px; PADDING-TOP: 15px
+}
+.ftr-newsletter-rcol {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FLOAT: left; PADDING-BOTTOM: 0px; WIDTH: 104px; PADDING-TOP: 15px
+}
+.ftr-newsletter-checkbox {
+	PADDING-RIGHT: 4px; PADDING-LEFT: 0px; FLOAT: left; PADDING-BOTTOM: 15px; PADDING-TOP: 0px
+}
+.ftr-newsletter-checkbox-dbl {
+	PADDING-RIGHT: 4px; PADDING-LEFT: 0px; FLOAT: left; PADDING-BOTTOM: 16px; PADDING-TOP: 0px
+}
+.ftr-checkbox-input {
+	CLEAR: left; PADDING-RIGHT: 0px; DISPLAY: block; PADDING-LEFT: 0px; FLOAT: left; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px; HEIGHT: 11px
+}
+.ftr-checkbox-newsletter-label {
+	CLEAR: none; DISPLAY: block; FLOAT: left; WIDTH: 150px
+}
+.ftr-green-submit-btn-ftr {
+	BORDER-RIGHT: medium none; BORDER-TOP: medium none; BACKGROUND: url(http://i.investopedia.com/fxtrader/green-submit-btn-footer.gif) no-repeat center top; BORDER-LEFT: medium none; WIDTH: 86px; CURSOR: pointer; BORDER-BOTTOM: medium none; HEIGHT: 23px
+}
+.ftr-green-submit-btn-ftr:hover {
+	BACKGROUND-POSITION: center bottom; BACKGROUND-IMAGE: url(http://i.investopedia.com/fxtrader/green-submit-btn-footer.gif); WIDTH: 86px; HEIGHT: 23px
+}
+.ftr-hr {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FLOAT: left; PADDING-BOTTOM: 0px; WIDTH: 105px; COLOR: #3f5662; BORDER-TOP-STYLE: none; PADDING-TOP: 0px; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; HEIGHT: 1px; BACKGROUND-COLOR: #3f5662; BORDER-BOTTOM-STYLE: none
+}
+.blue-tab-bg {
+	BACKGROUND: url(http://i.investopedia.com/inv/video/blue-tab-bg.jpg) repeat-x; WIDTH: 300px; HEIGHT: 35px
+}
+.blue-tab-cont {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 10px; FLOAT: left; PADDING-BOTTOM: 5px; CURSOR: default; PADDING-TOP: 5px
+}
+.blue-tab {
+	PADDING-RIGHT: 8px; PADDING-LEFT: 8px; FONT-WEIGHT: bold; FONT-SIZE: 11px; BACKGROUND: url(http://i.investopedia.com/inv/video/blue-tab-mid.jpg) repeat-x; FLOAT: left; PADDING-BOTTOM: 8px; PADDING-TOP: 8px
+}
+.blue-tab-link {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 5px; FONT-WEIGHT: bold; FONT-SIZE: 11px; FLOAT: left; PADDING-BOTTOM: 0px; PADDING-TOP: 13px
+}
+.submit-blue-btn {
+	BACKGROUND: url(http://i.investopedia.com/inv/video/submit-blue-btn.jpg) no-repeat 50% top; MARGIN: 10px 0px 20px; WIDTH: 67px; CURSOR: pointer; BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; HEIGHT: 27px; BORDER-BOTTOM-STYLE: none
+}
+.submit-blue-btn:hover {
+	BACKGROUND: url(http://i.investopedia.com/inv/video/submit-blue-btn.jpg) no-repeat 50% bottom; WIDTH: 67px; HEIGHT: 27px
+}
+.blue-arrow-btn {
+	BORDER-RIGHT: #e3eff6 1px solid; PADDING-RIGHT: 0px; BORDER-TOP: #e3eff6 1px solid; PADDING-LEFT: 0px; PADDING-BOTTOM: 5px; MARGIN: 0px auto; BORDER-LEFT: #e3eff6 1px solid; WIDTH: 298px; CURSOR: pointer; PADDING-TOP: 5px; BORDER-BOTTOM: #e3eff6 1px solid; BACKGROUND-COLOR: #f7fafc; TEXT-ALIGN: center
+}
+.blue-arrow-btn:hover {
+	BACKGROUND-COLOR: #fafbfc
+}
+.btn-blue-mid {
+	PADDING-RIGHT: 4px; PADDING-LEFT: 4px; FONT-WEIGHT: bold; FONT-SIZE: 11px; BACKGROUND: url(http://i.investopedia.com/inv/buttons/btn-blue-mid.png) repeat-x; FLOAT: left; PADDING-BOTTOM: 1px; CURSOR: pointer; COLOR: #fff; PADDING-TOP: 1px; HEIGHT: 25px
+}
+.btn-next-video {
+	PADDING-RIGHT: 7px; PADDING-LEFT: 7px; PADDING-BOTTOM: 3px; WIDTH: 374px; COLOR: #fff; PADDING-TOP: 3px; BACKGROUND-COLOR: #6292ae
+}
+.btn-next-video:hover {
+	BACKGROUND-COLOR: #8ab5ce
+}
+.btn-next-video A {
+	COLOR: #fff; TEXT-DECORATION: none
+}
+.btn-next-video A:hover {
+	COLOR: #fff; TEXT-DECORATION: none
+}
+.btn-replay-video {
+	BACKGROUND: url(http://i.investopedia.com/video/replay-video-btn.jpg) no-repeat 50% top; MARGIN: 15px 0px 10px; WIDTH: 126px; CURSOR: pointer; BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; HEIGHT: 31px; BORDER-BOTTOM-STYLE: none
+}
+.btn-replay-video:hover {
+	BACKGROUND: url(http://i.investopedia.com/video/replay-video-btn.jpg) no-repeat 50% bottom; WIDTH: 126px; CURSOR: pointer; HEIGHT: 31px
+}
+.btn-replay {
+	BACKGROUND: url(http://i.investopedia.com/inv/slideShows/replay-btn.jpg) no-repeat 50% top; WIDTH: 75px; CURSOR: pointer; BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; HEIGHT: 27px; BORDER-BOTTOM-STYLE: none
+}
+.btn-replay:hover {
+	BACKGROUND: url(http://i.investopedia.com/inv/slideShows/replay-btn.jpg) no-repeat 50% bottom; WIDTH: 75px; CURSOR: pointer; HEIGHT: 27px
+}
+.btn-share {
+	BACKGROUND: url(http://i.investopedia.com/inv/slideShows/share-btn.jpg) no-repeat 50% top; WIDTH: 76px; CURSOR: pointer; BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; HEIGHT: 23px; BORDER-BOTTOM-STYLE: none
+}
+.btn-share:hover {
+	BACKGROUND: url(http://i.investopedia.com/inv/slideShows/share-btn.jpg) no-repeat 50% bottom; WIDTH: 76px; CURSOR: pointer; HEIGHT: 23px
+}
+.btn-red-txt {
+	PADDING-RIGHT: 3px; PADDING-LEFT: 3px; FONT-WEIGHT: bold; FONT-SIZE: 10px; FLOAT: right; PADDING-BOTTOM: 3px; TEXT-TRANSFORM: uppercase; COLOR: #fff; PADDING-TOP: 3px; BACKGROUND-COLOR: #b21415
+}
+.btn-red-txt:hover {
+	BACKGROUND-COLOR: #94000b
+}
+.btn-red-txt-left:hover {
+	BACKGROUND-COLOR: #94000b
+}
+.btn-red-txt-left {
+	PADDING-RIGHT: 3px; PADDING-LEFT: 3px; FONT-WEIGHT: bold; FONT-SIZE: 10px; FLOAT: left; PADDING-BOTTOM: 3px; TEXT-TRANSFORM: uppercase; COLOR: #fff; PADDING-TOP: 3px; BACKGROUND-COLOR: #b21415
+}
+.get-values-btn {
+	MARGIN-TOP: 12px; BACKGROUND: url(http://i.investopedia.com/inv/markets/get-values-button.jpg) no-repeat 50% top; FLOAT: left; WIDTH: 84px; CURSOR: pointer; BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; HEIGHT: 22px; BORDER-BOTTOM-STYLE: none
+}
+.get-values-btn:hover {
+	BACKGROUND: url(http://i.investopedia.com/inv/markets/get-values-button.jpg) no-repeat 50% bottom; WIDTH: 84px; HEIGHT: 22px
+}
+.thumbs-up-btn {
+	BACKGROUND: url(http://i.investopedia.com/inv/markets/thumbs-up-btn.jpg) no-repeat 50% top; WIDTH: 19px; CURSOR: pointer; BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; HEIGHT: 18px; BORDER-BOTTOM-STYLE: none
+}
+.thumbs-up-btn:hover {
+	BACKGROUND: url(http://i.investopedia.com/inv/markets/thumbs-up-btn.jpg) no-repeat 50% bottom; WIDTH: 19px; HEIGHT: 18px
+}
+.thumbs-down-btn {
+	BACKGROUND: url(http://i.investopedia.com/inv/markets/thumbs-down-btn.jpg) no-repeat 50% top; WIDTH: 19px; CURSOR: pointer; BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; HEIGHT: 18px; BORDER-BOTTOM-STYLE: none
+}
+.thumbs-down-btn:hover {
+	BACKGROUND: url(http://i.investopedia.com/inv/markets/thumbs-down-btn.jpg) no-repeat 50% bottom; WIDTH: 19px; HEIGHT: 18px
+}
+.ad-sponsored-results {
+	COLOR: #919191
+}
+.ad-sponsored-results-blue {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 11px; PADDING-BOTTOM: 0px; COLOR: #919191; PADDING-TOP: 6px
+}
+.ad-sponsored-title {
+	FONT-SIZE: 16px; MARGIN: 0px; TEXT-DECORATION: underline
+}
+.ad-sponsored-text {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 1px; COLOR: #000; PADDING-TOP: 1px
+}
+.ad-sponsored-url {
+	COLOR: #494949
+}
+.ad-sponsored-url A {
+	FONT-WEIGHT: bold; COLOR: #7b9438; TEXT-DECORATION: none
+}
+.ad-sponsored-results-cont {
+	FLOAT: left; PADDING-BOTTOM: 8px; BORDER-BOTTOM: #cdcdcd 0px solid
+}
+.ad-sponsored-results-l {
+	FLOAT: left; WIDTH: 540px
+}
+.ad-sponsored-results-l A {
+	TEXT-DECORATION: none
+}
+.ad-sponsored-results-r {
+	FLOAT: right; WIDTH: 92px
+}
+.ad-sponsored-results-r A {
+	TEXT-DECORATION: none
+}
+.ad-context-text {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; WIDTH: 250px; PADDING-TOP: 4px
+}
+.ad-sponsored-rc {
+	MARGIN-BOTTOM: 20px; WIDTH: 300px
+}
+.ad-sponsored-rc A {
+	TEXT-DECORATION: none
+}
+.ad-slideunder-video {
+	MARGIN-TOP: 10px; DISPLAY: none; TEXT-ALIGN: center
+}
+.box-ad {
+	PADDING-LEFT: 5px; MARGIN: 20px 0px 10px; WIDTH: auto; TEXT-ALIGN: center
+}
+.box-ad-top {
+	PADDING-LEFT: 5px; MARGIN-BOTTOM: 20px; TEXT-ALIGN: center
+}
+.box-ad-btm {
+	MARGIN: 10px 0px
+}
+.box-ad-grey {
+	PADDING-RIGHT: 15px; PADDING-LEFT: 15px; PADDING-BOTTOM: 15px; PADDING-TOP: 15px; BACKGROUND-COLOR: #ededed; TEXT-ALIGN: center
+}
+A.ib_titlelink {
+	FONT-WEIGHT: bold; FONT-SIZE: 14px; PADDING-BOTTOM: 2px; COLOR: #255473; PADDING-TOP: 5px; FONT-FAMILY: Georgia, "Times New Roman", Times, serif; TEXT-DECORATION: none
+}
+A.ib_titlelink A:hover {
+	FONT-SIZE: 12px; TEXT-DECORATION: underline
+}
+.ib_descriptiontext {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 2px; PADDING-TOP: 5px
+}
+A.ib_urllink {
+	DISPLAY: block; FONT-SIZE: 12px; COLOR: #777; TEXT-DECORATION: none
+}
+.button2-box {
+	BORDER-RIGHT: #eee 1px solid; PADDING-RIGHT: 30px; BORDER-TOP: #eee 1px solid; PADDING-LEFT: 30px; PADDING-BOTTOM: 30px; OVERFLOW: hidden; BORDER-LEFT: #eee 1px solid; WIDTH: 270px; PADDING-TOP: 30px; BORDER-BOTTOM: #eee 1px solid
+}
+.ad-sponsored-links {
+	PADDING-RIGHT: 10px; MARGIN-TOP: 10px; PADDING-LEFT: 10px; FONT-SIZE: 11px; PADDING-BOTTOM: 0px; PADDING-TOP: 10px
+}
+.loge-wrap {
+	FLOAT: left; MARGIN: 10px 20px 20px 0px
+}
+.sky-ad {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 20px; MARGIN: 0px auto; WIDTH: 160px; PADDING-TOP: 20px; HEIGHT: 600px; TEXT-ALIGN: center
+}
+.leader-btm-ad {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 30px; MARGIN: 0px auto; WIDTH: 728px; PADDING-TOP: 30px
+}
+.partner-center {
+	BORDER-RIGHT: #ccc 1px solid; PADDING-RIGHT: 10px; BORDER-TOP: #ccc 1px solid; MARGIN-TOP: 15px; PADDING-LEFT: 10px; FONT-SIZE: 11px; PADDING-BOTTOM: 10px; BORDER-LEFT: #ccc 1px solid; PADDING-TOP: 10px; BORDER-BOTTOM: #ccc 1px solid
+}
+.ad-offers {
+	PADDING-RIGHT: 20px; PADDING-LEFT: 20px; PADDING-BOTTOM: 20px; OVERFLOW: auto; PADDING-TOP: 20px; BACKGROUND-COLOR: #f9f8ec
+}
+.ad-sponsored-links-grey-bdr {
+	BORDER-RIGHT: #e5e5e5 1px solid; PADDING-RIGHT: 15px; BORDER-TOP: #e5e5e5 1px solid; PADDING-LEFT: 15px; PADDING-BOTTOM: 15px; MARGIN: 30px 0px; BORDER-LEFT: #e5e5e5 1px solid; PADDING-TOP: 15px; BORDER-BOTTOM: #e5e5e5 1px solid
+}
+.mod-content-connect-cont {
+	MARGIN: 10px 0px 20px; OVERFLOW: hidden; WIDTH: 300px
+}
+.mod-content-connect {
+	FONT-WEIGHT: bold; MARGIN: 12px 0px 0px; TEXT-TRANSFORM: uppercase; BORDER-BOTTOM: #abbbcc 2px solid
+}
+.mod-content-connect-img {
+	MARGIN: 0px auto; WIDTH: 290px; POSITION: relative
+}
+.mod-ss-med-img {
+	MARGIN-BOTTOM: 14px; WIDTH: 145px; POSITION: relative
+}
+.mod-ss-med-img A {
+	TEXT-DECORATION: none
+}
+.mod-ss-med-img A:hover {
+	CURSOR: pointer
+}
+.mod-ss-lrg-img {
+	FLOAT: left; MARGIN: 0px 0px 20px 10px; WIDTH: 475px; POSITION: relative
+}
+.mod-ss-lrg-img A {
+	TEXT-DECORATION: none
+}
+.mod-ss-lrg-img A:hover {
+	CURSOR: pointer
+}
+.mod-overlay-text {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 5px; FONT-WEIGHT: bold; FILTER: alpha(opacity=90); LEFT: 0px; PADDING-BOTTOM: 5px; WIDTH: 280px; COLOR: #fff; BOTTOM: 0px; PADDING-TOP: 5px; POSITION: absolute; BACKGROUND-COLOR: #000; opacity: 0.90
+}
+.mod-overlay-mm-sm-text {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 5px; FONT-WEIGHT: bold; FONT-SIZE: 9px; FILTER: alpha(opacity=80); LEFT: 0px; PADDING-BOTTOM: 5px; WIDTH: 90px; COLOR: #fff; BOTTOM: 0px; PADDING-TOP: 5px; ZOOM: 1; POSITION: absolute; BACKGROUND-COLOR: #000; opacity: 0.80
+}
+.mod-overlay-mm-med-text {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 5px; FONT-WEIGHT: bold; FONT-SIZE: 10px; FILTER: alpha(opacity=80); LEFT: 0px; PADDING-BOTTOM: 5px; WIDTH: 140px; COLOR: #fff; BOTTOM: 0px; PADDING-TOP: 5px; ZOOM: 1; POSITION: absolute; BACKGROUND-COLOR: #000; opacity: 0.80
+}
+.mod-overlay-ss-med-text {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 5px; FONT-WEIGHT: bold; FONT-SIZE: 11px; FILTER: alpha(opacity=90); LEFT: 0px; PADDING-BOTTOM: 5px; WIDTH: 135px; COLOR: #fff; BOTTOM: 0px; PADDING-TOP: 5px; ZOOM: 1; POSITION: absolute; BACKGROUND-COLOR: #000; opacity: 0.90
+}
+.mod-overlay-ss-lrg-text {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 5px; FONT-WEIGHT: bold; FONT-SIZE: 18px; FILTER: alpha(opacity=90); LEFT: 0px; PADDING-BOTTOM: 5px; WIDTH: 465px; COLOR: #fff; BOTTOM: 0px; PADDING-TOP: 5px; ZOOM: 1; POSITION: absolute; BACKGROUND-COLOR: #000; opacity: 0.90
+}
+.mod-overlay-text-title {
+	FONT-SIZE: 13px; FLOAT: left; WIDTH: 280px
+}
+.mod-overlay-text-read {
+	PADDING-LEFT: 5px; FONT-SIZE: 12px
+}
+.mod-overlay-text-read A {
+	COLOR: #fff
+}
+.mod-overlay-text-read A:hover {
+	TEXT-DECORATION: none
+}
+.mod-content-connect-sm-img {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 0px; FLOAT: left; PADDING-BOTTOM: 0px; MARGIN: 15px 0px 0px 5px; WIDTH: 90px; PADDING-TOP: 0px
+}
+.mod-content-connect-sm-text {
+	FLOAT: left; MARGIN: 12px 0px 0px; WIDTH: 190px
+}
+.mod-content-connect-sm-text A {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; TEXT-DECORATION: none
+}
+.mod-content-connect-sm-text A:hover {
+	TEXT-DECORATION: underline
+}
+.mod-content-connect-sm-text2 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 11px; PADDING-BOTTOM: 0px; PADDING-TOP: 2px
+}
+.mod-content-connect2-cont {
+	MARGIN: 10px 0px 20px; OVERFLOW: hidden; WIDTH: auto
+}
+.mod-content-connect2-text-cont {
+	FLOAT: left; WIDTH: 220px
+}
+.mod-content-connect2-text {
+	MARGIN-TOP: 10px; FONT-SIZE: 11px; COLOR: #a8b8c1
+}
+.mod-content-connect2-links {
+	PADDING-RIGHT: 10px; BORDER-TOP: #ececec 1px solid; PADDING-LEFT: 10px; FONT-WEIGHT: bold; FONT-SIZE: 12px; PADDING-BOTTOM: 3px; LINE-HEIGHT: 20px; PADDING-TOP: 3px
+}
+.mod-content-connect2-links:hover {
+	BACKGROUND-COLOR: #f9f9f9
+}
+.mod-content-connect2-title {
+	WIDTH: 298px
+}
+.mod-content-connect-red-arrow {
+	PADDING-RIGHT: 7px; PADDING-LEFT: 0px; FLOAT: left; PADDING-BOTTOM: 0px; WIDTH: 5px; PADDING-TOP: 1px
+}
+.mod-rss-feed {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 11px; BACKGROUND: url(http://i.investopedia.com/inv/modules/mod-rss-feed-bg.jpg) repeat-x; PADDING-BOTTOM: 0px; MARGIN: 15px 0px 0px; COLOR: #ffffff; PADDING-TOP: 13px; HEIGHT: 84px; TEXT-ALIGN: center
+}
+.mod-rss-feed-content {
+	BORDER-RIGHT: #c9ced2 1px solid; BORDER-TOP: #c9ced2 1px solid; BORDER-LEFT: #c9ced2 1px solid; BORDER-BOTTOM: #c9ced2 1px solid
+}
+.mod-subscribe-now-btn {
+	BORDER-RIGHT: medium none; BORDER-TOP: medium none; BACKGROUND: url(http://i.investopedia.com/inv/modules/subscribe-now-btn.png) 0px 0px; MARGIN: 10px auto; BORDER-LEFT: medium none; WIDTH: 117px; CURSOR: pointer; BORDER-BOTTOM: medium none; HEIGHT: 30px
+}
+.mod-subscribe-now-btn:hover {
+	BACKGROUND-POSITION: center bottom; BACKGROUND-REPEAT: no-repeat; HEIGHT: 30px
+}
+.mod-number-dark {
+	PADDING-RIGHT: 6px; PADDING-LEFT: 6px; PADDING-BOTTOM: 6px; MARGIN: 0px 0px 1px; PADDING-TOP: 6px; BACKGROUND-COLOR: #f6f6f1
+}
+.mod-number-dark A {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 5px; FONT-WEIGHT: bold; FONT-SIZE: 12px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; TEXT-DECORATION: none
+}
+.mod-number-light {
+	PADDING-RIGHT: 6px; PADDING-LEFT: 6px; MARGIN-BOTTOM: 1px; PADDING-BOTTOM: 6px; PADDING-TOP: 6px; BACKGROUND-COLOR: #fafaf7
+}
+.mod-number-light A {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 5px; FONT-WEIGHT: bold; FONT-SIZE: 12px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; TEXT-DECORATION: none
+}
+.mod-number-number {
+	FONT-WEIGHT: bold; FONT-SIZE: 18px; COLOR: #a4a18f; FONT-FAMILY: "Times New Roman", Times, serif
+}
+.mod-rss-feed-more {
+	BORDER-RIGHT: #c9ced2 1px solid; BORDER-TOP: #c9ced2 1px solid; MARGIN: 0px 0px 10px; BORDER-LEFT: #c9ced2 1px solid; BORDER-BOTTOM: #c9ced2 1px solid
+}
+.mod-rss-feed-more-list LI {
+	PADDING-RIGHT: 8px; BORDER-TOP: #c9ced2 1px solid; PADDING-LEFT: 8px; PADDING-BOTTOM: 8px; PADDING-TOP: 8px; LIST-STYLE-TYPE: none
+}
+.mod-rss-feed-more-list LI A {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #000; TEXT-DECORATION: none
+}
+.mod-stock-ticker-tr-ticker {
+	PADDING-RIGHT: 4px; DISPLAY: inline; PADDING-LEFT: 4px; FONT-SIZE: 12px; PADDING-BOTTOM: 1px; TEXT-TRANSFORM: uppercase; PADDING-TOP: 1px; BACKGROUND-COLOR: #255473
+}
+.mod-stock-ticker-tr-ticker A {
+	COLOR: #fff! important; TEXT-DECORATION: none
+}
+.mod-stock-ticker-tr-ticker:hover {
+	BACKGROUND-COLOR: #000
+}
+.mod-chart-of-the-week {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 10px; MARGIN-BOTTOM: 10px; PADDING-BOTTOM: 10px; COLOR: #fff; PADDING-TOP: 10px; BACKGROUND-COLOR: #000
+}
+.mod-sa-signup {
+	PADDING-RIGHT: 10px; MARGIN-TOP: 10px; PADDING-LEFT: 10px; FONT-WEIGHT: bold; MARGIN-BOTTOM: 10px; PADDING-BOTTOM: 10px; COLOR: #000; PADDING-TOP: 10px; BACKGROUND-COLOR: #f7f7f7
+}
+.mod-newsletter-300 {
+	FLOAT: right; WIDTH: 300px
+}
+.mod-newsletter-hdr {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 10px; BACKGROUND: url(http://i.investopedia.com/inv/newsletters/signup/newsletter-signup-hdr.jpg) repeat-x; PADDING-BOTTOM: 0px; TEXT-TRANSFORM: uppercase; COLOR: #414141; PADDING-TOP: 6px; FONT-STYLE: italic; HEIGHT: 21px
+}
+.mod-newsletter-cont {
+	PADDING-RIGHT: 8px; PADDING-LEFT: 8px; BACKGROUND: url(http://i.investopedia.com/inv/newsletters/signup/newsletter-signup-bg.jpg) repeat-x; PADDING-BOTTOM: 10px; OVERFLOW: hidden; WIDTH: 284px; PADDING-TOP: 10px
+}
+.mod-newsletter-title {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 15px; OVERFLOW: hidden; WIDTH: 284px; PADDING-TOP: 5px
+}
+.mod-newsletter-check {
+	PADDING-BOTTOM: 10px; OVERFLOW: hidden; WIDTH: 284px
+}
+.mod-newsletter-checkmrk {
+	PADDING-RIGHT: 6px; PADDING-LEFT: 8px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px
+}
+.mod-newsletter-input {
+	WIDTH: 195px; HEIGHT: 22px
+}
+.mod-newsletter-btn {
+	BACKGROUND: url(http://i.investopedia.com/inv/newsletters/signup/signup-grn-btn.gif) no-repeat 50% top; FLOAT: right; WIDTH: 78px; BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; HEIGHT: 28px; BORDER-BOTTOM-STYLE: none
+}
+.mod-newsletter-btn:hover {
+	BACKGROUND: url(http://i.investopedia.com/inv/newsletters/signup/signup-grn-btn.gif) no-repeat 50% bottom; CURSOR: pointer; BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; HEIGHT: 28px; BORDER-BOTTOM-STYLE: none
+}
+.mod-newsletter-ftr {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 7px; PADDING-TOP: 7px
+}
+.mod-cont {
+	MARGIN-BOTTOM: 5px; PADDING-BOTTOM: 4px; OVERFLOW: hidden; WIDTH: 100%; BORDER-BOTTOM: #d6d6d6 1px solid
+}
+.mod-stream-container {
+	OVERFLOW: hidden; HEIGHT: 32em; BORDER-BOTTOM-STYLE: none! important
+}
+.mod-stream-container-terms {
+	OVERFLOW: hidden; HEIGHT: 450px; BORDER-BOTTOM-STYLE: none! important
+}
+.mod-stream-cont {
+	MARGIN-BOTTOM: 8px; PADDING-BOTTOM: 8px; OVERFLOW: hidden; BORDER-BOTTOM: #dadada 1px dotted
+}
+.mod-stream-cont-312 {
+	MARGIN-BOTTOM: 8px; PADDING-BOTTOM: 8px; OVERFLOW: hidden; BORDER-BOTTOM: #dadada 1px dotted
+}
+.mod-stream-cont-312-2 {
+	PADDING-RIGHT: 5px; FLOAT: left; MARGIN-BOTTOM: 10px; PADDING-BOTTOM: 10px; OVERFLOW: hidden; WIDTH: 312px; BORDER-BOTTOM: #dadada 0px solid; HEIGHT: 63px
+}
+.mod-article-stream-img {
+	PADDING-RIGHT: 10px; FLOAT: left; WIDTH: 50px; HEIGHT: 41px
+}
+.mod-article-stream-img-hp {
+	BORDER-RIGHT: #a1a1a1 2px solid; BORDER-TOP: #a1a1a1 2px solid; FLOAT: left; BORDER-LEFT: #a1a1a1 2px solid; WIDTH: 65px; MARGIN-RIGHT: 10px; BORDER-BOTTOM: #a1a1a1 2px solid; HEIGHT: 43px
+}
+.mod-stream-text {
+	FLOAT: left; WIDTH: 270px
+}
+.mod-stream-text-252 {
+	FLOAT: left; WIDTH: 252px
+}
+.mod-chart-of-the-week {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 10px; PADDING-BOTTOM: 10px; COLOR: #fff; PADDING-TOP: 10px; BACKGROUND-COLOR: #000
+}
+.mod-stream-text A {
+	TEXT-DECORATION: none
+}
+.mod-stream-text-252 {
+	TEXT-DECORATION: none
+}
+.mod-stream-text-235 A {
+	TEXT-DECORATION: none
+}
+.mod-stream-text-520 {
+	WIDTH: 520px
+}
+.read-more-arrow {
+	PADDING-RIGHT: 3px; PADDING-LEFT: 3px; PADDING-BOTTOM: 0px; VERTICAL-ALIGN: top; PADDING-TOP: 5px
+}
+.read-more-arrow-2 {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; VERTICAL-ALIGN: top; WIDTH: 5px; PADDING-TOP: 5px
+}
+.read-more-arrow-top {
+	PADDING-RIGHT: 3px; PADDING-LEFT: 3px; PADDING-BOTTOM: 0px; VERTICAL-ALIGN: top; PADDING-TOP: 6px
+}
+.read-more-arrow-list {
+	PADDING-RIGHT: 4px; PADDING-LEFT: 3px; PADDING-BOTTOM: 0px; VERTICAL-ALIGN: top; PADDING-TOP: 4px
+}
+.view-all {
+	PADDING-RIGHT: 3px; PADDING-LEFT: 3px; FONT-WEIGHT: bold; FONT-SIZE: 9px; FLOAT: right; MARGIN-BOTTOM: 20px; PADDING-BOTTOM: 3px; TEXT-TRANSFORM: uppercase; COLOR: #fff; PADDING-TOP: 3px; BACKGROUND-COLOR: #b21415; TEXT-DECORATION: none
+}
+.view-all A:link {
+	COLOR: #fff! important; TEXT-DECORATION: none
+}
+.view-all:hover {
+	BACKGROUND-COLOR: #94000b
+}
+.read-all-sm:hover {
+	BACKGROUND-COLOR: #94000b
+}
+.view-all-sm:hover {
+	BACKGROUND-COLOR: #94000b
+}
+view-all-art:hover {
+	BACKGROUND-COLOR: #94000b
+}
+.view-all-sm {
+	PADDING-RIGHT: 2px; PADDING-LEFT: 2px; FONT-WEIGHT: bold; FONT-SIZE: 8px; FLOAT: left; MARGIN-BOTTOM: 20px; PADDING-BOTTOM: 2px; TEXT-TRANSFORM: uppercase; COLOR: #fff! important; PADDING-TOP: 2px; BACKGROUND-COLOR: #b21415
+}
+.read-all-sm {
+	PADDING-RIGHT: 2px; PADDING-LEFT: 2px; FONT-WEIGHT: bold; FONT-SIZE: 8px; MARGIN-BOTTOM: 20px; PADDING-BOTTOM: 2px; MARGIN-LEFT: 5px; TEXT-TRANSFORM: uppercase; WIDTH: 40px; COLOR: #fff! important; PADDING-TOP: 2px; WHITE-SPACE: nowrap; BACKGROUND-COLOR: #b21415; TEXT-DECORATION: none
+}
+.view-all-art {
+	PADDING-RIGHT: 3px; PADDING-LEFT: 3px; FONT-WEIGHT: bold; FONT-SIZE: 9px; FLOAT: right; MARGIN-BOTTOM: 20px; PADDING-BOTTOM: 3px; TEXT-TRANSFORM: uppercase; COLOR: #fff; MARGIN-RIGHT: 20px; PADDING-TOP: 3px; BACKGROUND-COLOR: #b21415; TEXT-DECORATION: none
+}
+.view-all-art A:link {
+	COLOR: #fff! important; TEXT-DECORATION: none
+}
+.read-more {
+	PADDING-RIGHT: 2px; MARGIN-TOP: 2px; PADDING-LEFT: 2px; FONT-WEIGHT: bold; FONT-SIZE: 9px; FLOAT: right; PADDING-BOTTOM: 2px; TEXT-TRANSFORM: uppercase; PADDING-TOP: 2px; WHITE-SPACE: nowrap; BACKGROUND-COLOR: #b21415
+}
+.read-more:hover {
+	BACKGROUND-COLOR: #cc2526
+}
+.read-more A {
+	COLOR: #fff! important; TEXT-DECORATION: none
+}
+.popular-icon {
+	FLOAT: left; MARGIN: 0px 10px 15px 0px; WIDTH: 23px
+}
+.popular-rss {
+	PADDING-RIGHT: 5px; BORDER-TOP: #abbbcc 1px solid; MARGIN-TOP: 5px; PADDING-LEFT: 5px; FONT-SIZE: 11px; PADDING-BOTTOM: 5px; OVERFLOW: hidden; WIDTH: 100%; PADDING-TOP: 5px; BORDER-BOTTOM: #abbbcc 1px solid
+}
+.popular-rss-slim {
+	PADDING-RIGHT: 5px; BORDER-TOP: #abbbcc 1px solid; PADDING-LEFT: 5px; FONT-SIZE: 11px; PADDING-BOTTOM: 5px; OVERFLOW: hidden; WIDTH: 200px; PADDING-TOP: 5px; BORDER-BOTTOM: #abbbcc 1px solid
+}
+.tag-cloud {
+	OVERFLOW: hidden; TEXT-ALIGN: justify
+}
+.tag-cloud A {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 5px; PADDING-BOTTOM: 5px; LINE-HEIGHT: 1.5em; PADDING-TOP: 5px; TEXT-DECORATION: none
+}
+.tag-cloud A:visited {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 5px; PADDING-BOTTOM: 5px; LINE-HEIGHT: 1.5em; PADDING-TOP: 5px; TEXT-DECORATION: none
+}
+.tag-cloud A:hover {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 5px; PADDING-BOTTOM: 5px; PADDING-TOP: 5px; TEXT-DECORATION: underline
+}
+.tag-xxl A {
+	FONT-SIZE: 20px
+}
+.tag-xl A {
+	FONT-SIZE: 18px
+}
+.tag-l A {
+	FONT-SIZE: 16px
+}
+.tag-m A {
+	FONT-SIZE: 12px
+}
+.tag-s A {
+	FONT-SIZE: 11px
+}
+.more-left-arrow {
+	BACKGROUND-POSITION: 50% top; FLOAT: left; BACKGROUND-IMAGE: url(http://i.investopedia.com/inv/icons/more-left-arrow.gif); WIDTH: 32px; CURSOR: pointer; HEIGHT: 180px
+}
+.more-left-arrow:hover {
+	BACKGROUND-POSITION: 50% bottom; WIDTH: 32px; HEIGHT: 180px
+}
+.more-right-arrow:hover {
+	BACKGROUND-POSITION: 50% bottom; WIDTH: 32px; HEIGHT: 180px
+}
+.more-right-arrow {
+	BACKGROUND-POSITION: 50% top; FLOAT: right; BACKGROUND-IMAGE: url(http://i.investopedia.com/inv/icons/more-right-arrow.gif); WIDTH: 32px; CURSOR: pointer; HEIGHT: 180px
+}
+.more-in-cont {
+	BORDER-RIGHT: #dadada 0px solid; PADDING-RIGHT: 16px; FLOAT: left; MARGIN: 0px; WIDTH: 175px
+}
+.more-in-cont-hp {
+	BORDER-RIGHT: #dadada 1px solid; PADDING-RIGHT: 10px; FLOAT: left; MARGIN: 10px 0px 0px 10px; WIDTH: 175px
+}
+.more-in-title {
+	MARGIN-TOP: 10px
+}
+.more-in-text {
+	MARGIN-TOP: 2px; LINE-HEIGHT: 17px
+}
+.trend-text {
+	FONT-SIZE: 12px; FLOAT: left; MARGIN-BOTTOM: 15px; WIDTH: 297px
+}
+.trend-text-slim {
+	FONT-SIZE: 12px; FLOAT: left; MARGIN-BOTTOM: 10px; WIDTH: 177px
+}
+.category-blue {
+	BORDER-RIGHT: #ccc 1px solid; PADDING-RIGHT: 4px; BORDER-TOP: #ccc 1px solid; PADDING-LEFT: 4px; FONT-SIZE: 10px; PADDING-BOTTOM: 1px; TEXT-TRANSFORM: uppercase; BORDER-LEFT: #ccc 1px solid; CURSOR: pointer; COLOR: #000! important; PADDING-TOP: 1px; BORDER-BOTTOM: #ccc 1px solid; WHITE-SPACE: nowrap; TEXT-DECORATION: none
+}
+.category-blue:hover {
+	CURSOR: pointer
+}
+.category-border {
+	BORDER-RIGHT: #ccc 1px solid; PADDING-RIGHT: 4px; BORDER-TOP: #ccc 1px solid; PADDING-LEFT: 4px; FONT-SIZE: 10px; PADDING-BOTTOM: 1px; TEXT-TRANSFORM: uppercase; BORDER-LEFT: #ccc 1px solid; CURSOR: pointer; COLOR: #000! important; PADDING-TOP: 1px; BORDER-BOTTOM: #ccc 1px solid; WHITE-SPACE: nowrap; TEXT-DECORATION: none
+}
+.title-black {
+	PADDING-RIGHT: 4px; PADDING-LEFT: 4px; FONT-SIZE: 10px; PADDING-BOTTOM: 1px; TEXT-TRANSFORM: uppercase; COLOR: #fff! important; PADDING-TOP: 1px; BACKGROUND-COLOR: #000; TEXT-DECORATION: none
+}
+.title-black:hover {
+	BACKGROUND-COLOR: #255473
+}
+.category-margin {
+	MARGIN-RIGHT: 5px
+}
+.category-articles {
+	FONT-SIZE: 11px; FLOAT: left
+}
+.mod-video-med-img {
+	MARGIN-BOTTOM: 14px; WIDTH: 150px; POSITION: relative
+}
+.mod-video-med-img A {
+	TEXT-DECORATION: none
+}
+.mod-video-med-img A:hover {
+	CURSOR: pointer
+}
+.mod-overlay-video-med-text {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 5px; FONT-WEIGHT: bold; FONT-SIZE: 10px; FILTER: alpha(opacity=80); LEFT: 0px; PADDING-BOTTOM: 5px; WIDTH: 140px; COLOR: #fff; BOTTOM: 0px; PADDING-TOP: 5px; ZOOM: 1; POSITION: absolute; BACKGROUND-COLOR: #000; opacity: 0.80
+}
+.mod-term-stream-img {
+	PADDING-RIGHT: 10px; FLOAT: left; WIDTH: 30px; HEIGHT: 41px
+}
+.mod-tod {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 5px; FONT-WEIGHT: bold; FONT-SIZE: 11px; PADDING-BOTTOM: 5px; MARGIN: 20px 0px 10px; TEXT-TRANSFORM: uppercase; COLOR: #fff; PADDING-TOP: 5px; BACKGROUND-COLOR: #313538
+}
+.mod-tod-form {
+	MARGIN: 10px 0px 0px 18px
+}
+.mod-grey5 {
+	BORDER-RIGHT: #dfdfdf 5px solid; PADDING-RIGHT: 10px; BORDER-TOP: #dfdfdf 5px solid; PADDING-LEFT: 10px; FONT-SIZE: 12px; PADDING-BOTTOM: 5px; MARGIN: 20px 0px; OVERFLOW: hidden; BORDER-LEFT: #dfdfdf 5px solid; PADDING-TOP: 10px; BORDER-BOTTOM: #dfdfdf 5px solid
+}
+.mod-category-list LI {
+	PADDING-BOTTOM: 5px; OVERFLOW: auto; LIST-STYLE-TYPE: none
+}
+.mod-tod-hp {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 5px; FONT-WEIGHT: bold; FONT-SIZE: 11px; PADDING-BOTTOM: 5px; TEXT-TRANSFORM: uppercase; COLOR: #ffffff; PADDING-TOP: 5px; BACKGROUND-COLOR: #5280a9
+}
+.mod-tod-hp A {
+	COLOR: #fff! important; TEXT-DECORATION: none
+}
+.mod-tod-hp A:hover {
+	COLOR: #255473! important
+}
+.mod-tod-hp A:active {
+	COLOR: #fff! important
+}
+.mod-tod-hp-container {
+	BORDER-RIGHT: #5280a9 1px solid; PADDING-RIGHT: 10px; BORDER-TOP: #5280a9 1px solid; PADDING-LEFT: 10px; MARGIN-BOTTOM: 15px; PADDING-BOTTOM: 10px; OVERFLOW: auto; BORDER-LEFT: #5280a9 1px solid; WIDTH: 230px; PADDING-TOP: 10px; BORDER-BOTTOM: #5280a9 1px solid
+}
+.mod-blue-border-container {
+	BORDER-RIGHT: #5280a9 1px solid; PADDING-RIGHT: 10px; BORDER-TOP: #5280a9 1px solid; PADDING-LEFT: 10px; MARGIN-BOTTOM: 15px; PADDING-BOTTOM: 10px; OVERFLOW: auto; BORDER-LEFT: #5280a9 1px solid; PADDING-TOP: 10px; BORDER-BOTTOM: #5280a9 1px solid
+}
+.mod-tod-hp-container-left {
+	FLOAT: left; WIDTH: 70px
+}
+.mod-tod-hp-container-right {
+	FLOAT: right; WIDTH: 230px
+}
+.mod-fb-hp {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 5px; FONT-WEIGHT: bold; FONT-SIZE: 13px; PADDING-BOTTOM: 5px; TEXT-TRANSFORM: uppercase; COLOR: #000; PADDING-TOP: 5px; BACKGROUND-COLOR: #edeff4
+}
+.mod-fb-hp-container {
+	BORDER-RIGHT: #edeff4 1px solid; PADDING-RIGHT: 10px; BORDER-TOP: #edeff4 1px solid; PADDING-LEFT: 10px; MARGIN-BOTTOM: 15px; PADDING-BOTTOM: 10px; OVERFLOW: auto; BORDER-LEFT: #edeff4 1px solid; WIDTH: 308px; PADDING-TOP: 10px; BORDER-BOTTOM: #edeff4 1px solid
+}
+.mod-more-in {
+	PADDING-RIGHT: 0px; BORDER-TOP: #e4e4e4 3px solid; PADDING-LEFT: 15px; PADDING-BOTTOM: 0px; MARGIN: 10px 0px 20px; WIDTH: 269px; PADDING-TOP: 15px
+}
+.mod-more-in-list {
+	PADDING-BOTTOM: 10px; WIDTH: 229px
+}
+.mod-spons-links {
+	PADDING-RIGHT: 0px; BORDER-TOP: #e4e4e4 3px solid; PADDING-LEFT: 15px; PADDING-BOTTOM: 0px; MARGIN: 10px 0px 20px; BORDER-LEFT: #e4e4e4 1px solid; WIDTH: 269px; PADDING-TOP: 15px
+}
+.mod-terms-in-news {
+	FLOAT: left; WIDTH: 280px
+}
+.popup-cont {
+	MARGIN-TOP: -60px; DISPLAY: block; Z-INDEX: 2000; RIGHT: 35%; MARGIN-LEFT: -200px; POSITION: absolute; TOP: 50%
+}
+.popup-inner-cont {
+	BORDER-RIGHT: #1e3847 5px solid; PADDING-RIGHT: 0px; BORDER-TOP: #1e3847 5px solid; PADDING-LEFT: 0px; FONT-SIZE: 11px; FLOAT: right; PADDING-BOTTOM: 0px; MARGIN: 0px auto; BORDER-LEFT: #1e3847 5px solid; WIDTH: 400px; COLOR: #000; LINE-HEIGHT: 22px; PADDING-TOP: 0px; BORDER-BOTTOM: #1e3847 5px solid; HEIGHT: 95px; BACKGROUND-COLOR: #fff
+}
+.popup-footer {
+	FLOAT: left; WIDTH: 100%; HEIGHT: 35px; BACKGROUND-COLOR: #eceaeb
+}
+.popup-text {
+	PADDING-RIGHT: 8px; PADDING-LEFT: 8px; PADDING-BOTTOM: 8px; PADDING-TOP: 8px
+}
+.popup-btn {
+	PADDING-RIGHT: 5px; MARGIN: 5px 0px 0px 10px
+}
+.social-cont {
+	FLOAT: right; WIDTH: 375px; TEXT-ALIGN: right
+}
+.facebook-like {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 5px; FLOAT: right; PADDING-BOTTOM: 5px; WIDTH: 80px; PADDING-TOP: 0px; TEXT-ALIGN: right
+}
+.facebook-like-iframe {
+	FLOAT: right; OVERFLOW: hidden; WIDTH: 80px; BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; HEIGHT: 21px; TEXT-ALIGN: right; BORDER-BOTTOM-STYLE: none
+}
+.facebook-like-btm {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 6px; FLOAT: left; PADDING-BOTTOM: 0px; WIDTH: 80px; PADDING-TOP: 1px
+}
+.social-tweet {
+	WIDTH: 87px
+}
+.social-share {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 5px; WIDTH: 60px; PADDING-TOP: 3px
+}
+.email-btn {
+	BACKGROUND: url(http://i.investopedia.com/inv/icons/email-btn.jpg) no-repeat 50% top; FLOAT: right; WIDTH: 62px; CURSOR: pointer; MARGIN-RIGHT: 8px; HEIGHT: 20px
+}
+.email-btn:hover {
+	BACKGROUND: url(http://i.investopedia.com/inv/icons/email-btn.jpg) no-repeat 50% bottom; WIDTH: 62px; HEIGHT: 20px
+}
+.email-btn-l {
+	BACKGROUND: url(http://i.investopedia.com/inv/icons/email-btn.jpg) no-repeat 50% top; FLOAT: left; WIDTH: 62px; CURSOR: pointer; MARGIN-RIGHT: 8px; HEIGHT: 20px
+}
+.email-btn-l:hover {
+	BACKGROUND: url(http://i.investopedia.com/inv/icons/email-btn.jpg) no-repeat 50% bottom; WIDTH: 62px; HEIGHT: 20px
+}
+.email-btn:hover {
+	BACKGROUND: url(http://i.investopedia.com/inv/icons/email-btn.jpg) no-repeat 50% bottom; WIDTH: 62px; HEIGHT: 20px
+}
+.print-btn {
+	BACKGROUND: url(http://i.investopedia.com/inv/icons/print-btn.jpg) no-repeat 50% top; FLOAT: left; WIDTH: 56px; CURSOR: pointer; MARGIN-RIGHT: 8px; HEIGHT: 20px
+}
+.print-btn:hover {
+	BACKGROUND: url(http://i.investopedia.com/inv/icons/print-btn.jpg) no-repeat 50% bottom; WIDTH: 56px; HEIGHT: 20px
+}
+.feedback-btn {
+	BACKGROUND: url(http://i.investopedia.com/inv/icons/feedback-btn.jpg) no-repeat 50% top; FLOAT: left; WIDTH: 80px; CURSOR: pointer; MARGIN-RIGHT: 8px; HEIGHT: 20px
+}
+.feedback-btn:hover {
+	BACKGROUND: url(http://i.investopedia.com/inv/icons/feedback-btn.jpg) no-repeat 50% bottom; WIDTH: 80px; HEIGHT: 20px
+}
+.reprints-btn {
+	BACKGROUND: url(http://i.investopedia.com/inv/icons/reprints-btn.jpg) no-repeat 50% top; FLOAT: left; WIDTH: 71px; CURSOR: pointer; MARGIN-RIGHT: 8px; HEIGHT: 20px
+}
+.reprints-btn:hover {
+	BACKGROUND: url(http://i.investopedia.com/inv/icons/reprints-btn.jpg) no-repeat 50% bottom; WIDTH: 71px; HEIGHT: 20px
+}
+.facebook-like-tool {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 5px; FLOAT: right; PADDING-BOTTOM: 5px; WIDTH: 90px; PADDING-TOP: 0px
+}
+.facebook-like-tool-l {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 5px; FLOAT: left; PADDING-BOTTOM: 5px; WIDTH: 90px; PADDING-TOP: 0px
+}
+.facebook-like-tool-iframe {
+	FLOAT: left; OVERFLOW: hidden; WIDTH: 100px; BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; HEIGHT: 21px; BORDER-BOTTOM-STYLE: none
+}
+.tweet-tool {
+	FLOAT: right; WIDTH: 90px; CURSOR: pointer; MARGIN-RIGHT: 8px
+}
+.tweet-tool-l {
+	DISPLAY: block; FLOAT: left; WIDTH: 90px; MARGIN-RIGHT: 8px
+}
+.comments-btn {
+	BACKGROUND: url(http://i.investopedia.com/inv/icons/comments-btn.jpg) no-repeat 50% top; FLOAT: right; WIDTH: 87px; CURSOR: pointer; MARGIN-RIGHT: 8px; HEIGHT: 20px
+}
+.comments-btn-l {
+	BACKGROUND: url(http://i.investopedia.com/inv/icons/comments-btn.jpg) no-repeat 50% top; FLOAT: left; WIDTH: 87px; CURSOR: pointer; MARGIN-RIGHT: 8px; HEIGHT: 20px
+}
+.comments-btn-l:hover {
+	BACKGROUND: url(http://i.investopedia.com/inv/icons/comments-btn.jpg) no-repeat 50% bottom; WIDTH: 87px; HEIGHT: 20px
+}
+.comments-btn:hover {
+	BACKGROUND: url(http://i.investopedia.com/inv/icons/comments-btn.jpg) no-repeat 50% bottom; WIDTH: 87px; HEIGHT: 20px
+}
+.pager {
+	PADDING-RIGHT: 10px; BORDER-TOP: #dadada 1px solid; MARGIN-TOP: 20px; PADDING-LEFT: 10px; PADDING-BOTTOM: 7px; OVERFLOW: hidden; WIDTH: 620px; PADDING-TOP: 7px; BORDER-BOTTOM: #dadada 1px solid
+}
+.pager-410 {
+	PADDING-RIGHT: 10px; BORDER-TOP: #dadada 1px solid; MARGIN-TOP: 20px; PADDING-LEFT: 10px; PADDING-BOTTOM: 7px; OVERFLOW: hidden; WIDTH: 390px; PADDING-TOP: 7px; BORDER-BOTTOM: #dadada 1px solid
+}
+.prev-pg-btn {
+	BACKGROUND-POSITION: 50% top; FLOAT: left; BACKGROUND-IMAGE: url(http://i.investopedia.com/inv/icons/prev-pg-btn.jpg); WIDTH: 51px; CURSOR: pointer; MARGIN-RIGHT: 10px; BACKGROUND-REPEAT: no-repeat; HEIGHT: 18px
+}
+.prev-pg-btn:hover {
+	BACKGROUND-POSITION: 0px -18px; WIDTH: 51px; HEIGHT: 18px
+}
+.prev-pg-btn-disabled {
+	BACKGROUND-POSITION: 0px -36px; FLOAT: left; BACKGROUND-IMAGE: url(http://i.investopedia.com/inv/icons/prev-pg-btn.jpg); WIDTH: 51px; CURSOR: pointer; MARGIN-RIGHT: 10px; BACKGROUND-REPEAT: no-repeat; HEIGHT: 18px
+}
+.next-pg-btn {
+	BACKGROUND-POSITION: 50% top; FLOAT: left; BACKGROUND-IMAGE: url(http://i.investopedia.com/inv/icons/next-pg-btn.jpg); WIDTH: 51px; CURSOR: pointer; MARGIN-RIGHT: 10px; BACKGROUND-REPEAT: no-repeat; HEIGHT: 18px
+}
+.next-pg-btn:hover {
+	BACKGROUND-POSITION: 0px -18px; WIDTH: 51px; HEIGHT: 18px
+}
+.next-pg-btn-disabled {
+	BACKGROUND-POSITION: 0px -36px; FLOAT: left; BACKGROUND-IMAGE: url(http://i.investopedia.com/inv/icons/next-pg-btn.jpg); WIDTH: 51px; CURSOR: pointer; MARGIN-RIGHT: 10px; BACKGROUND-REPEAT: no-repeat; HEIGHT: 18px
+}
+.number-pg-btn {
+	PADDING-RIGHT: 0px; BACKGROUND-POSITION: 50% top; PADDING-LEFT: 7px; FONT-SIZE: 11px; FLOAT: left; BACKGROUND-IMAGE: url(http://i.investopedia.com/inv/icons/number-pg-btn.jpg); PADDING-BOTTOM: 0px; WIDTH: 14px; CURSOR: pointer; MARGIN-RIGHT: 10px; PADDING-TOP: 2px; BACKGROUND-REPEAT: no-repeat; HEIGHT: 16px; TEXT-ALIGN: left
+}
+.number-pg-btn A {
+	TEXT-DECORATION: none
+}
+.number-pg-btn:hover {
+	BACKGROUND-POSITION: 50% bottom; WIDTH: 14px; COLOR: #255473; HEIGHT: 16px
+}
+.number-pg-active {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; FLOAT: left; MARGIN-RIGHT: 10px; PADDING-TOP: 2px
+}
+.hp-image {
+	MARGIN-BOTTOM: 5px; WIDTH: 630px; POSITION: relative; HEIGHT: 200px
+}
+.hp-overlay-topic {
+	PADDING-RIGHT: 4px; PADDING-LEFT: 4px; FONT-SIZE: 10px; FILTER: alpha(opacity=90); LEFT: 0px; PADDING-BOTTOM: 1px; TEXT-TRANSFORM: uppercase; COLOR: #fff; PADDING-TOP: 1px; POSITION: absolute; TOP: 10px; BACKGROUND-COLOR: #255473; opacity: 0.90
+}
+.hp-overlay-topic:hover {
+	BACKGROUND-COLOR: #000
+}
+.hp-overlay-main {
+	PADDING-RIGHT: 15px; PADDING-LEFT: 15px; FONT-SIZE: 12px; FILTER: alpha(opacity=80); LEFT: 0px; PADDING-BOTTOM: 15px; WIDTH: 320px; COLOR: #fff; PADDING-TOP: 15px; POSITION: absolute; TOP: 15px; BACKGROUND-COLOR: #000; opacity: 0.8
+}
+.hp-overlay-extra {
+	PADDING-RIGHT: 15px; PADDING-LEFT: 15px; FONT-SIZE: 10px; FILTER: alpha(opacity=85); LEFT: 0px; PADDING-BOTTOM: 10px; WIDTH: 280px; COLOR: #fff; PADDING-TOP: 10px; POSITION: absolute; TOP: 135px; BACKGROUND-COLOR: #313538; opacity: 0.85
+}
+.hp-extra-title {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 5px; FLOAT: left; PADDING-BOTTOM: 3px; TEXT-TRANSFORM: uppercase; WIDTH: 65px; MARGIN-RIGHT: 10px; PADDING-TOP: 3px; BACKGROUND-COLOR: #000
+}
+.hp-extra-title:hover {
+	BACKGROUND-COLOR: #141414
+}
+.hp-extra-title A:link {
+	COLOR: #fff; TEXT-DECORATION: none
+}
+.hp-extra-title A:visited {
+	COLOR: #fff; TEXT-DECORATION: none
+}
+.hp-extra-blue {
+	FONT-SIZE: 12px; FLOAT: left; WIDTH: 240px; COLOR: #c4e0f8
+}
+.hp-extra-blue A:link {
+	COLOR: #c4e0f8; TEXT-DECORATION: none
+}
+.hp-extra-blue A:visited {
+	COLOR: #c4e0f8; TEXT-DECORATION: none
+}
+.hp-extra-blue A:hover {
+	TEXT-DECORATION: underline
+}
+.hp-nav {
+	PADDING-RIGHT: 3px; PADDING-LEFT: 3px; BACKGROUND: url(http://i.investopedia.com/inv/home/feature-arw-bg.jpg) #3a3a3a repeat-x; LEFT: 490px; PADDING-BOTTOM: 4px; PADDING-TOP: 2px; POSITION: absolute; TOP: 170px; HEIGHT: 21px
+}
+.stepcarousel {
+	OVERFLOW: scroll; WIDTH: 638px; POSITION: relative; HEIGHT: 210px
+}
+.stepcarousel .belt {
+	LEFT: 0px; POSITION: absolute; TOP: 0px
+}
+.stepcarousel .panel {
+	FLOAT: left; MARGIN: 0px; OVERFLOW: hidden; WIDTH: 638px
+}
+.hp-editors-pick {
+	FLOAT: left; WIDTH: 60px; HEIGHT: 60px
+}
+.hp-poll-button {
+	MARGIN-TOP: 5px; FONT-WEIGHT: bold; BACKGROUND-IMAGE: url(http://i.investopedia.com/inv/buttons/submit-answer-btn.jpg); WIDTH: 130px; COLOR: #255473; BACKGROUND-REPEAT: no-repeat; HEIGHT: 21px
+}
+.hp-p {
+	MARGIN-TOP: 5px; MARGIN-BOTTOM: 0px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px
+}
+.dict-tools {
+	MARGIN: 15px 0px 30px 70px; OVERFLOW: hidden
+}
+.dict-srch {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 10px; BACKGROUND-IMAGE: url(http://i.investopedia.com/inv/dictionary/term-search-bg.jpg); PADDING-BOTTOM: 0px; MARGIN: 10px 0px; WIDTH: 977px; PADDING-TOP: 0px; BACKGROUND-REPEAT: no-repeat; HEIGHT: 41px
+}
+.dict-srch-ttl-terms {
+	FLOAT: left; WIDTH: 155px; PADDING-TOP: 13px
+}
+.dict-srch-form-container {
+	FLOAT: left; WIDTH: 270px; PADDING-TOP: 8px
+}
+.dict-srch-form {
+	WIDTH: 202px; COLOR: #888888; HEIGHT: 20px
+}
+.dict-srch-form-btn {
+	BACKGROUND: url(http://i.investopedia.com/inv/dictionary/dict-srch-btn.jpg) no-repeat 50% top; VERTICAL-ALIGN: bottom; WIDTH: 60px; CURSOR: pointer; BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; HEIGHT: 26px; BORDER-BOTTOM-STYLE: none
+}
+.dict-srch-form-btn:hover {
+	BACKGROUND: url(http://i.investopedia.com/inv/dictionary/dict-srch-btn.jpg) no-repeat 50% bottom; HEIGHT: 26px
+}
+.dict-srch-browse {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 10px; FLOAT: left; PADDING-BOTTOM: 0px; WIDTH: 200px; PADDING-TOP: 10px
+}
+.dict-srch-browse-form {
+	BORDER-RIGHT: #0f324a 1px solid; PADDING-RIGHT: 2px; BORDER-TOP: #0f324a 1px solid; PADDING-LEFT: 2px; PADDING-BOTTOM: 2px; BORDER-LEFT: #0f324a 1px solid; COLOR: #fff; PADDING-TOP: 2px; BORDER-BOTTOM: #0f324a 1px solid; BACKGROUND-COLOR: #194460
+}
+.dict-srch-day-sub {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 0px; FLOAT: right; PADDING-BOTTOM: 0px; PADDING-TOP: 12px
+}
+.dict-srch-day-sub-icons {
+	PADDING-RIGHT: 15px; PADDING-LEFT: 0px; FLOAT: right; PADDING-BOTTOM: 0px; PADDING-TOP: 10px
+}
+.dict-investopedia-exp {
+	PADDING-TOP: 10px
+}
+.dict-video-mod {
+	FLOAT: right; MARGIN: 0px 0px 20px 20px; WIDTH: 170px; LINE-HEIGHT: 14px
+}
+.dict-next-term {
+	PADDING-RIGHT: 0px; BORDER-TOP: #ccc 1px solid; PADDING-LEFT: 0px; PADDING-BOTTOM: 10px; MARGIN: 10px 0px; PADDING-TOP: 10px; BORDER-BOTTOM: #ccc 1px solid
+}
+.dict-more-on LI {
+	MARGIN: 15px 0px; LIST-STYLE-TYPE: none
+}
+.dict-more-on LI P {
+	MARGIN-TOP: 0px
+}
+.dict-more-on-img {
+	BORDER-RIGHT: #ccc 2px solid; BORDER-TOP: #ccc 2px solid; FLOAT: left; MARGIN: 0px 10px 10px 0px; BORDER-LEFT: #ccc 2px solid; BORDER-BOTTOM: #ccc 2px solid
+}
+.dict-tod-form {
+	FONT-SIZE: 11px; WIDTH: 202px; COLOR: #000; HEIGHT: 15px
+}
+.dict-tod-form-btn {
+	BACKGROUND: url(http://i.investopedia.com/inv/dictionary/sign-up-btn.jpg) no-repeat 50% top; VERTICAL-ALIGN: bottom; WIDTH: 66px; CURSOR: pointer; BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; HEIGHT: 21px; BORDER-BOTTOM-STYLE: none
+}
+.dict-tod-form-btn:hover {
+	BACKGROUND: url(http://i.investopedia.com/inv/dictionary/sign-up-btn.jpg) no-repeat 50% bottom; HEIGHT: 21px
+}
+.dict-tod-prev-day {
+	MARGIN-TOP: 10px; FONT-WEIGHT: bold; FONT-SIZE: 8px; TEXT-TRANSFORM: uppercase; COLOR: #255473; TEXT-DECORATION: none
+}
+.dict-tod-prev-day A {
+	TEXT-DECORATION: none
+}
+.dict-tod-hp {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 10px; PADDING-BOTTOM: 10px; COLOR: #fff; PADDING-TOP: 10px; BACKGROUND-COLOR: #1b1c1e
+}
+.dict-tod-hp-title {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 5px; FONT-WEIGHT: bold; FONT-SIZE: 11px; FLOAT: left; PADDING-BOTTOM: 2px; PADDING-TOP: 2px; BACKGROUND-COLOR: #474747
+}
+.dict-tod-hp-title A {
+	COLOR: #fff; TEXT-DECORATION: none
+}
+.dict-tod-hp-bottom {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 10px; PADDING-BOTTOM: 10px; COLOR: #fff; PADDING-TOP: 10px; BACKGROUND-COLOR: #313538
+}
+.dict-tod-hp-previous-btn {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 5px; FONT-WEIGHT: bold; FONT-SIZE: 9px; FLOAT: left; PADDING-BOTTOM: 3px; WIDTH: 85px; MARGIN-RIGHT: 3px; PADDING-TOP: 3px; BACKGROUND-COLOR: #537ea8
+}
+.dict-tod-hp-previous-btn A:link {
+	COLOR: #fff; TEXT-DECORATION: none; outline: none
+}
+.dict-tod-hp-next-btn A:link {
+	COLOR: #fff; TEXT-DECORATION: none; outline: none
+}
+.dict-tod-hp-previous-btn A:visited {
+	COLOR: #fff; TEXT-DECORATION: none; outline: none
+}
+.dict-tod-hp-next-btn A:visited {
+	COLOR: #fff; TEXT-DECORATION: none; outline: none
+}
+.dict-tod-hp-next-btn {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 5px; FONT-WEIGHT: bold; FONT-SIZE: 9px; FLOAT: left; PADDING-BOTTOM: 3px; WIDTH: 65px; MARGIN-RIGHT: 3px; PADDING-TOP: 3px; BACKGROUND-COLOR: #537ea8
+}
+.dict-tod-hp-previous-btn:hover {
+	BACKGROUND-COLOR: #70a0cf
+}
+.dict-tod-hp-next-btn:hover {
+	BACKGROUND-COLOR: #70a0cf
+}
+.dict-tod-hp-form {
+	FLOAT: right
+}
+.dic-tod-hp-social {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 10px; PADDING-BOTTOM: 10px; PADDING-TOP: 10px; BORDER-BOTTOM: #000 3px solid
+}
+.dict-investopedia-exp-sml {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #5b5b5b
+}
+.dict-tt-ess {
+	MARGIN-BOTTOM: 10px
+}
+.dict-tt-ess-number {
+	FLOAT: left
+}
+.dict-tt-ess-number-ten {
+	PADDING-RIGHT: 0px; BACKGROUND-POSITION: 0% 0%; PADDING-LEFT: 1px; FONT-WEIGHT: bold; FONT-SIZE: 14px; BACKGROUND-ATTACHMENT: scroll; FLOAT: left; BACKGROUND-IMAGE: url(http://i.investopedia.com/inv/dictionary/dict-tt-list.jpg); PADDING-BOTTOM: 0px; WIDTH: 20px; PADDING-TOP: 10px; FONT-FAMILY: Georgia, "Times New Roman", Times, serif; HEIGHT: 35px; BACKGROUND-COLOR: transparent
+}
+.dict-tt-ess-desc {
+	FLOAT: right; WIDTH: 155px
+}
+.dict-tt-ess-desc A {
+	TEXT-DECORATION: none
+}
+.dict-add-def {
+	BORDER-RIGHT: #bbbbbb 1px solid; PADDING-RIGHT: 10px; BORDER-TOP: #bbbbbb 1px solid; MARGIN-TOP: 20px; PADDING-LEFT: 10px; PADDING-BOTTOM: 10px; BORDER-LEFT: #bbbbbb 1px solid; PADDING-TOP: 10px; BORDER-BOTTOM: #bbbbbb 1px solid; BACKGROUND-COLOR: #ebebeb
+}
+.dict-cat-ntk-hd {
+	MARGIN-BOTTOM: 10px; PADDING-BOTTOM: 10px; BORDER-BOTTOM: #305d87 1px solid
+}
+.dict-tod-bb {
+	PADDING-BOTTOM: 10px; BORDER-BOTTOM: #313538 2px solid
+}
+.dict-body {
+	MARGIN-TOP: 12px; FONT-SIZE: 13px; FLOAT: right; WIDTH: 560px; LINE-HEIGHT: 19px
+}
+.termhp-term-cont {
+	MARGIN-TOP: 10px; PADDING-BOTTOM: 10px; OVERFLOW: hidden; WIDTH: 400px; BORDER-BOTTOM: #ededed 1px solid
+}
+.termhp-term-cont P {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+.category-term-cont {
+	MARGIN-TOP: 10px; PADDING-BOTTOM: 10px; OVERFLOW: hidden; WIDTH: 630px; BORDER-BOTTOM: #ededed 1px solid
+}
+.dict-alpha {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 10px; PADDING-BOTTOM: 10px; MARGIN: 15px 0px 25px; OVERFLOW: hidden; WIDTH: 610px; PADDING-TOP: 10px; BACKGROUND-COLOR: #f6f6f6
+}
+.article-tools {
+	MARGIN: 15px 0px; OVERFLOW: hidden
+}
+.comments-bubble {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 8px; FONT-WEIGHT: bold; FONT-SIZE: 11px; BACKGROUND: url(http://i.investopedia.com/inv/icons/comments-bubble.jpg) no-repeat; FLOAT: left; PADDING-BOTTOM: 0px; WIDTH: 11px; CURSOR: pointer; MARGIN-RIGHT: 10px; PADDING-TOP: 3px; HEIGHT: 20px
+}
+.article-body {
+	MARGIN-TOP: 20px; FONT-SIZE: 13px; LINE-HEIGHT: 19px
+}
+.article-body LI {
+	LIST-STYLE-POSITION: inside; LIST-STYLE-TYPE: disc
+}
+.highlights-wrap {
+	FLOAT: left; MARGIN: 0px 20px 20px 0px; WIDTH: 170px; LINE-HEIGHT: 18px
+}
+.highlights-title {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; TEXT-TRANSFORM: uppercase; LINE-HEIGHT: 23px; BORDER-BOTTOM: #dadada 1px solid; FONT-FAMILY: Georgia, "Times New Roman", Times, serif
+}
+UL.highlights {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 12px; PADDING-BOTTOM: 10px; COLOR: #444; PADDING-TOP: 10px
+}
+UL.highlights LI {
+	PADDING-RIGHT: 0px; LIST-STYLE: none none outside; BACKGROUND-POSITION: 0px 6px; PADDING-LEFT: 15px; BACKGROUND-IMAGE: url(http://i.investopedia.com/inv/icons/red-arrow-bullet.gif); PADDING-BOTTOM: 5px; PADDING-TOP: 0px; BACKGROUND-REPEAT: no-repeat
+}
+.sm-article-img {
+	BORDER-RIGHT: #a1a1a1 2px solid; BORDER-TOP: #a1a1a1 2px solid; FLOAT: left; MARGIN: 8px 10px 0px 0px; BORDER-LEFT: #a1a1a1 2px solid; WIDTH: 100px; BORDER-BOTTOM: #a1a1a1 2px solid
+}
+.thumb-article-img {
+	BORDER-RIGHT: #a1a1a1 2px solid; BORDER-TOP: #a1a1a1 2px solid; BORDER-LEFT: #a1a1a1 2px solid; WIDTH: 67px; MARGIN-RIGHT: 10px; BORDER-BOTTOM: #a1a1a1 2px solid
+}
+.thumb-article-img-lrg {
+	BORDER-RIGHT: #a1a1a1 2px solid; BORDER-TOP: #a1a1a1 2px solid; BORDER-LEFT: #a1a1a1 2px solid; WIDTH: 130px; MARGIN-RIGHT: 10px; BORDER-BOTTOM: #a1a1a1 2px solid
+}
+.thumb-article-img-sml {
+	BORDER-RIGHT: #a1a1a1 2px solid; BORDER-TOP: #a1a1a1 2px solid; BORDER-LEFT: #a1a1a1 2px solid; WIDTH: 62px; MARGIN-RIGHT: 10px; BORDER-BOTTOM: #a1a1a1 2px solid
+}
+.articles-teaser-txt {
+	FONT-SIZE: 12px; FLOAT: left; WIDTH: 286px; LINE-HEIGHT: 18px
+}
+.articles-teaser-txt-long {
+	FONT-SIZE: 12px; FLOAT: left; WIDTH: 400px; LINE-HEIGHT: 18px
+}
+.articles-teaser-txt-cat {
+	FONT-SIZE: 12px; FLOAT: left; WIDTH: 640px; LINE-HEIGHT: 18px
+}
+.articles-teaser-txt-cat-img-long {
+	FONT-SIZE: 12px; FLOAT: left; WIDTH: 510px; LINE-HEIGHT: 18px
+}
+.articles-teaser-txt-cat-long {
+	FONT-SIZE: 12px; FLOAT: left; LINE-HEIGHT: 18px
+}
+.category-ftr-art-cont {
+	MARGIN: 13px 0px 25px; OVERFLOW: hidden; WIDTH: 630px
+}
+.category-art-cont {
+	BORDER-TOP: #ededed 1px solid; MARGIN-TOP: 10px; OVERFLOW: hidden; WIDTH: 630px; PADDING-TOP: 10px
+}
+.arthp-ftr-art-cont {
+	MARGIN: 13px 0px 25px; OVERFLOW: hidden; WIDTH: 400px
+}
+.arthp-art-cont {
+	BORDER-TOP: #ededed 1px solid; MARGIN-TOP: 10px; OVERFLOW: hidden; WIDTH: 400px; PADDING-TOP: 10px
+}
+.market-tab {
+	BORDER-RIGHT: #2b2b2b 1px solid; PADDING-RIGHT: 5px; BORDER-TOP: #2b2b2b 1px solid; PADDING-LEFT: 5px; FONT-WEIGHT: bold; FONT-SIZE: 10px; FLOAT: left; PADDING-BOTTOM: 3px; TEXT-TRANSFORM: uppercase; BORDER-LEFT: #2b2b2b 1px solid; WIDTH: 90px; COLOR: #2b2b2b; MARGIN-RIGHT: 5px; PADDING-TOP: 3px; BORDER-BOTTOM: #2b2b2b 1px solid; BACKGROUND-COLOR: #fff; TEXT-ALIGN: center
+}
+.market-tab:hover {
+	COLOR: #fff; BACKGROUND-COLOR: #2b2b2b
+}
+.market-tab A:hover {
+	COLOR: #fff! important; BACKGROUND-COLOR: #2b2b2b
+}
+.market-tab A:link {
+	COLOR: #2b2b2b; TEXT-DECORATION: none
+}
+.market-tab A:visited {
+	COLOR: #2b2b2b; TEXT-DECORATION: none
+}
+.market-tab-active {
+	BORDER-RIGHT: #2b2b2b 1px solid; PADDING-RIGHT: 5px; BORDER-TOP: #2b2b2b 1px solid; PADDING-LEFT: 5px; FONT-WEIGHT: bold; FONT-SIZE: 10px; FLOAT: left; PADDING-BOTTOM: 3px; TEXT-TRANSFORM: uppercase; BORDER-LEFT: #2b2b2b 1px solid; WIDTH: 90px; COLOR: #fff; MARGIN-RIGHT: 5px; PADDING-TOP: 3px; BORDER-BOTTOM: #2b2b2b 1px solid; BACKGROUND-COLOR: #2b2b2b; TEXT-ALIGN: center
+}
+.market-tab-active A:link {
+	COLOR: #fff; TEXT-DECORATION: none
+}
+.market-tab-active A:visited {
+	COLOR: #fff; TEXT-DECORATION: none
+}
+.market-sponsored {
+	PADDING-RIGHT: 10px; BORDER-TOP: #46166b 1px solid; PADDING-LEFT: 10px; PADDING-BOTTOM: 5px; MARGIN: 15px 0px 5px; OVERFLOW: hidden; PADDING-TOP: 5px; BORDER-BOTTOM: #46166b 1px solid
+}
+.market-sponsored-text {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 0px; FONT-SIZE: 9px; FLOAT: right; PADDING-BOTTOM: 0px; TEXT-TRANSFORM: uppercase; COLOR: #909090; PADDING-TOP: 16px
+}
+.market-row-active {
+	BACKGROUND-COLOR: #eef5f8
+}
+.market-row:hover {
+	BACKGROUND-COLOR: #eef5f8
+}
+.market-search-quote {
+	BORDER-RIGHT: #abadb3 1px solid; PADDING-RIGHT: 1px; BORDER-TOP: #abadb3 1px solid; PADDING-LEFT: 1px; PADDING-BOTTOM: 1px; BORDER-LEFT: #abadb3 1px solid; PADDING-TOP: 1px; BORDER-BOTTOM: #abadb3 1px solid; BACKGROUND-COLOR: #fff
+}
+.market-search-quote INPUT {
+	BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-RIGHT-WIDTH: 0px
+}
+.ui-tabs .ui-tabs-nav {
+	MARGIN-BOTTOM: 5px! important
+}
+.market-historical-table {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 10px; PADDING-BOTTOM: 10px; OVERFLOW: auto; PADDING-TOP: 10px; BACKGROUND-COLOR: #f3faff
+}
+.srch-investopedia-search {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 10px; BACKGROUND: url(http://i.investopedia.com/inv/new-nav/inv-search-bg.jpg) #f1f1f1 repeat-x; PADDING-BOTTOM: 7px; OVERFLOW: hidden; WIDTH: 995px; PADDING-TOP: 7px
+}
+.srch-filter-cont {
+	PADDING-RIGHT: 0px; BORDER-TOP: #dfdfdf 1px solid; PADDING-LEFT: 0px; PADDING-BOTTOM: 7px; MARGIN: 10px 0px 35px; OVERFLOW: hidden; WIDTH: 955px; PADDING-TOP: 7px; BORDER-BOTTOM: #dfdfdf 1px solid; HEIGHT: 60px
+}
+.srch-filter-title {
+	FONT-WEIGHT: bold; FLOAT: left
+}
+.srch-filter {
+	PADDING-RIGHT: 0px; MARGIN-TOP: 5px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; PADDING-TOP: 5px
+}
+.srch-filter INPUT {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; WIDTH: 13px; PADDING-TOP: 0px; HEIGHT: 13px
+}
+.srch-filter-text {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 3px; FLOAT: left; PADDING-BOTTOM: 0px; PADDING-TOP: 0px
+}
+.srch-filter-button A {
+	PADDING-RIGHT: 8px; PADDING-LEFT: 8px; PADDING-BOTTOM: 3px; COLOR: #3b4651; PADDING-TOP: 3px; TEXT-DECORATION: none
+}
+.srch-filter-button {
+	BORDER-RIGHT: #c8c8c8 1px solid; PADDING-RIGHT: 0px; BORDER-TOP: #c8c8c8 1px solid; PADDING-LEFT: 0px; FONT-SIZE: 9px; PADDING-BOTTOM: 2px; MARGIN: 5px 0px 0px 5px; VERTICAL-ALIGN: top; TEXT-TRANSFORM: uppercase; BORDER-LEFT: #c8c8c8 1px solid; WIDTH: 80px; PADDING-TOP: 2px; BORDER-BOTTOM: #c8c8c8 1px solid; BACKGROUND-COLOR: #ebebeb; TEXT-ALIGN: center
+}
+.srch-filter-button:hover {
+	BACKGROUND-COLOR: #f4f4f4
+}
+.srch-btn-container {
+	PADDING-RIGHT: 15px; MARGIN-TOP: 10px; PADDING-LEFT: 15px; FLOAT: left; PADDING-BOTTOM: 15px; WIDTH: 530px; PADDING-TOP: 15px; BACKGROUND-COLOR: #f4f4f4; TEXT-ALIGN: center
+}
+.srch-btn {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; BACKGROUND: url(http://i.investopedia.com/inv/search/search-btnv2.jpg) no-repeat 50% top; PADDING-BOTTOM: 0px; MARGIN: 0px 5px 0px 0px; VERTICAL-ALIGN: bottom; WIDTH: 87px; CURSOR: pointer; BORDER-TOP-STYLE: none; PADDING-TOP: 0px; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; HEIGHT: 28px; BORDER-BOTTOM-STYLE: none
+}
+.srch-btn:hover {
+	BACKGROUND: url(http://i.investopedia.com/inv/search/search-btnv2.jpg) no-repeat 50% bottom; HEIGHT: 28px
+}
+.srch-box {
+	WIDTH: 380px; HEIGHT: 22px
+}
+.srch-box-container {
+	FLOAT: left
+}
+.srch-dym {
+	FONT-SIZE: 15px; MARGIN: 0px 0px 5px; COLOR: #94000b
+}
+.srch-content-container {
+	MARGIN: 10px 0px
+}
+.srch-result-title {
+	FONT-SIZE: 16px
+}
+.srch-result-text {
+	PADDING-RIGHT: 8px; PADDING-LEFT: 0px; PADDING-BOTTOM: 2px; WIDTH: 550px; PADDING-TOP: 2px
+}
+.srch-result-url {
+	FONT-SIZE: 11px; COLOR: #929292
+}
+.srch-result-url A {
+	COLOR: #929292; TEXT-DECORATION: none
+}
+.srch-pager {
+	PADDING-RIGHT: 0px; BORDER-TOP: #ddd 1px solid; PADDING-LEFT: 0px; PADDING-BOTTOM: 30px; PADDING-TOP: 15px; TEXT-ALIGN: center
+}
+.srch-pager-button {
+	BORDER-RIGHT: #255473 1px solid; PADDING-RIGHT: 6px; BORDER-TOP: #255473 1px solid; PADDING-LEFT: 6px; PADDING-BOTTOM: 3px; MARGIN: 3px; BORDER-LEFT: #255473 1px solid; WIDTH: 100px; COLOR: #000; PADDING-TOP: 3px; BORDER-BOTTOM: #255473 1px solid; TEXT-DECORATION: none
+}
+.srch-pager-button:hover {
+	BACKGROUND-COLOR: #f4f4f4
+}
+.srch-pager-button A {
+	PADDING-RIGHT: 6px; PADDING-LEFT: 6px; PADDING-BOTTOM: 0px; COLOR: #000; PADDING-TOP: 0px; TEXT-DECORATION: none
+}
+.srch-pager-button-dis {
+	BORDER-RIGHT: #bbb 1px solid; PADDING-RIGHT: 6px; BORDER-TOP: #bbb 1px solid; PADDING-LEFT: 6px; PADDING-BOTTOM: 3px; MARGIN: 3px; BORDER-LEFT: #bbb 1px solid; WIDTH: 100px; COLOR: #bbb; PADDING-TOP: 3px; BORDER-BOTTOM: #bbb 1px solid; TEXT-DECORATION: none
+}
+.srch-pager-button-dis:hover {
+	COLOR: #bbb; BACKGROUND-COLOR: #fff
+}
+.srch-pager-button-dis A {
+	PADDING-RIGHT: 6px; PADDING-LEFT: 6px; PADDING-BOTTOM: 0px; COLOR: #bbb; PADDING-TOP: 0px; TEXT-DECORATION: none
+}
+.srch-pager-button-dis A:hover {
+	COLOR: #bbb; TEXT-DECORATION: none
+}
+.srch-pager-select {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 5px; FONT-WEIGHT: bold; PADDING-BOTTOM: 5px; COLOR: #000! important; PADDING-TOP: 5px
+}
+.srch-pager-select A {
+	COLOR: #000! important
+}
+.srch-pager-select:hover {
+	COLOR: #000
+}
+.srch-related {
+	FLOAT: left; WIDTH: 200px
+}
+.srch-related LI {
+	LINE-HEIGHT: 1.4em; LIST-STYLE-TYPE: none
+}
+.srch-no-results {
+	FONT-SIZE: 16px
+}
+.srch-no-results P {
+	PADDING-BOTTOM: 5px; PADDING-TOP: 5px
+}
+.srch-no-results UL {
+	LIST-STYLE-POSITION: inside; MARGIN-LEFT: 15px
+}
+#result {
+	PADDING-RIGHT: 0px; BORDER-TOP: #cdcdcd 1px solid; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px
+}
+.srch-table-filter {
+	PADDING-LEFT: 10px
+}
+.srch-filter-chkbox {
+	PADDING-BOTTOM: 5px; MARGIN: 2px 5px
+}
+.pusher {
+	PADDING-RIGHT: 90px; PADDING-LEFT: 0px; FONT-SIZE: 11px; FLOAT: right; PADDING-BOTTOM: 0px; CURSOR: pointer; COLOR: #255473; PADDING-TOP: 8px
+}
+.srch-url {
+	DISPLAY: none; COLOR: #7b9438
+}
+.srch-url A {
+	DISPLAY: none; COLOR: #7b9438; TEXT-DECORATION: none
+}
+.multimedia-object {
+	FLOAT: left; WIDTH: 148px; MARGIN-RIGHT: 13px
+}
+.multimedia-object-art {
+	FLOAT: left; MARGIN-LEFT: 25px; WIDTH: 148px; MARGIN-RIGHT: 13px
+}
+.multimedia-thumb {
+	BORDER-RIGHT: #a1a1a1 2px solid; BORDER-TOP: #a1a1a1 2px solid; MARGIN-BOTTOM: 5px; OVERFLOW: hidden; BORDER-LEFT: #a1a1a1 2px solid; WIDTH: 148px; BORDER-BOTTOM: #a1a1a1 2px solid; POSITION: relative
+}
+.multimedia-text {
+	FONT-SIZE: 12px; MARGIN-BOTTOM: 10px; WIDTH: 152px
+}
+.multimedia-object-sm {
+	FLOAT: left; WIDTH: 130px; MARGIN-RIGHT: 13px
+}
+.multimedia-thumb-sm {
+	BORDER-RIGHT: #a1a1a1 2px solid; BORDER-TOP: #a1a1a1 2px solid; MARGIN-BOTTOM: 5px; OVERFLOW: hidden; BORDER-LEFT: #a1a1a1 2px solid; WIDTH: 130px; BORDER-BOTTOM: #a1a1a1 2px solid; POSITION: relative
+}
+.multimedia-thumb-sm A {
+	TEXT-DECORATION: none
+}
+.multimedia-text-sm {
+	FONT-SIZE: 12px; MARGIN-BOTTOM: 10px; WIDTH: 134px
+}
+.multimedia-ess {
+	MARGIN: 0px auto; WIDTH: 134px
+}
+.ss-container {
+	PADDING-BOTTOM: 10px; MARGIN: 0px auto; HEIGHT: 324px
+}
+.ss-ad-list {
+	PADDING-RIGHT: 0px; BORDER-TOP: #000 1px solid; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 15px 0px 0px; PADDING-TOP: 15px
+}
+.ss-ad-list LI {
+	PADDING-RIGHT: 8px; DISPLAY: inline; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px
+}
+.ss-image {
+	DISPLAY: inline; HEIGHT: 200px
+}
+.vid-text P {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 5px; PADDING-TOP: 5px
+}
+.ss-more-ss {
+	MARGIN-TOP: 20px
+}
+.ss-small-arrows-txt {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 5px; FLOAT: left; PADDING-BOTTOM: 0px; PADDING-TOP: 4px
+}
+.ss-more-ss LI {
+	PADDING-RIGHT: 20px; DISPLAY: inline; PADDING-LEFT: 0px; FLOAT: left; PADDING-BOTTOM: 0px; WIDTH: 194px; PADDING-TOP: 0px
+}
+A.view-ss {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 5px; FONT-WEIGHT: bold; FONT-SIZE: 11px; PADDING-BOTTOM: 5px; COLOR: #fff; PADDING-TOP: 5px; BACKGROUND-COLOR: #6392ae; TEXT-DECORATION: none
+}
+A.view-ss:hover {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 5px; PADDING-BOTTOM: 5px; COLOR: #fff; PADDING-TOP: 5px; BACKGROUND-COLOR: #255473; TEXT-DECORATION: none
+}
+A.view-ss:visited {
+	COLOR: #fff
+}
+.ss-end-slide {
+	PADDING-RIGHT: 15px; PADDING-LEFT: 15px; PADDING-BOTTOM: 0px; COLOR: #fff; PADDING-TOP: 15px; HEIGHT: 315px; BACKGROUND-COLOR: #303030
+}
+.ss-by-topic {
+	MARGIN: 10px 0px 20px; OVERFLOW: hidden; WIDTH: 630px
+}
+.ss-left-btn {
+	MARGIN-TOP: 145px; DISPLAY: none; Z-INDEX: 999; BACKGROUND: url(http://i.investopedia.com/inv/icons/left-arrow-light.gif) no-repeat 50% top; MARGIN-LEFT: 10px; WIDTH: 46px; POSITION: absolute; HEIGHT: 48px
+}
+.ss-left-btn:hover {
+	MARGIN-TOP: 145px; DISPLAY: none; Z-INDEX: 999; BACKGROUND: url(http://i.investopedia.com/inv/icons/left-arrow-light.gif) no-repeat 50% bottom; MARGIN-LEFT: 10px; WIDTH: 46px; CURSOR: pointer; POSITION: absolute; HEIGHT: 48px
+}
+.ss-right-btn {
+	MARGIN-TOP: 145px; DISPLAY: none; Z-INDEX: 999; BACKGROUND: url(http://i.investopedia.com/inv/icons/right-arrow-light.gif) no-repeat 50% top; MARGIN-LEFT: 584px; WIDTH: 46px; POSITION: absolute; HEIGHT: 48px
+}
+.ss-right-btn:hover {
+	MARGIN-TOP: 145px; DISPLAY: none; Z-INDEX: 999; BACKGROUND: url(http://i.investopedia.com/inv/icons/right-arrow-light.gif) no-repeat 50% bottom; MARGIN-LEFT: 584px; WIDTH: 46px; CURSOR: pointer; POSITION: absolute; HEIGHT: 48px
+}
+.ss-left-btn A {
+	TEXT-DECORATION: none
+}
+.ss-right-btn A {
+	TEXT-DECORATION: none
+}
+.ss-left-btn-sm A {
+	TEXT-DECORATION: none
+}
+.ss-right-btn-sm A {
+	TEXT-DECORATION: none
+}
+.ss-left-btn-sm {
+	DISPLAY: none; BACKGROUND: url(http://i.investopedia.com/inv/icons/left-small-light.jpg) no-repeat 50% top; FLOAT: left; WIDTH: 16px; MARGIN-RIGHT: 5px; HEIGHT: 17px
+}
+.ss-left-btn-sm:hover {
+	DISPLAY: none; BACKGROUND: url(http://i.investopedia.com/inv/icons/left-small-light.jpg) no-repeat 50% bottom; FLOAT: left; WIDTH: 16px; CURSOR: pointer; HEIGHT: 17px
+}
+.ss-right-btn-sm {
+	DISPLAY: none; BACKGROUND: url(http://i.investopedia.com/inv/icons/right-small-light.jpg) no-repeat 50% top; FLOAT: left; WIDTH: 16px; HEIGHT: 17px
+}
+.ss-right-btn-sm:hover {
+	DISPLAY: none; BACKGROUND: url(http://i.investopedia.com/inv/icons/right-small-light.jpg) no-repeat 50% bottom; FLOAT: left; WIDTH: 16px; CURSOR: pointer; HEIGHT: 17px
+}
+.ss-content A {
+	COLOR: #a6c2ce
+}
+.ss-social {
+	FLOAT: left; WIDTH: 640px
+}
+.ss-content {
+	OVERFLOW-Y: auto; FLOAT: right; OVERFLOW-X: hidden; MARGIN-LEFT: 10px; OVERFLOW: auto; WIDTH: 300px; COLOR: #fff; HEIGHT: 335px
+}
+.ss-title {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-WEIGHT: bold; FONT-SIZE: 17px; MARGIN-BOTTOM: 10px; PADDING-BOTTOM: 5px; PADDING-TOP: 5px; BORDER-BOTTOM: #fff 1px solid
+}
+.vid-black-cont {
+	PADDING-RIGHT: 15px; PADDING-LEFT: 15px; MARGIN-BOTTOM: 10px; PADDING-BOTTOM: 10px; COLOR: #fff; PADDING-TOP: 15px; BACKGROUND-COLOR: #0d0d0d
+}
+.vid-black-cont A {
+	COLOR: #fff
+}
+.vid-black-title {
+	PADDING-RIGHT: 15px; PADDING-LEFT: 15px; PADDING-BOTTOM: 10px; WIDTH: 600px; PADDING-TOP: 15px; BACKGROUND-COLOR: #0d0d0d
+}
+.vid-video-home {
+	Z-INDEX: 1; POSITION: relative
+}
+.vid-video {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; Z-INDEX: 1; PADDING-BOTTOM: 10px; MARGIN: 0px auto; WIDTH: 610px; PADDING-TOP: 10px; POSITION: relative
+}
+.vid-video-cont {
+	DISPLAY: block; WIDTH: 610px; HEIGHT: 343px
+}
+.vid-text {
+	PADDING-RIGHT: 5px; MARGIN: 10px 0px
+}
+.vid-comments-cont {
+	BORDER-TOP: #ededed 1px solid; MARGIN: 10px 0px 20px; PADDING-TOP: 10px
+}
+.vid-comments-hdr {
+	OVERFLOW: hidden
+}
+.vid-commments-expand {
+	FONT-WEIGHT: normal; FONT-SIZE: 0.81em; FLOAT: right; TEXT-TRANSFORM: none; COLOR: #a3a2a2
+}
+.vid-list {
+	MARGIN-TOP: 5px
+}
+.vid-list-ie6 {
+	
+}
+.vid-ss-list {
+	MARGIN-BOTTOM: 10px
+}
+.vid-ss-list LI {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; LIST-STYLE-POSITION: outside; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px; LIST-STYLE-TYPE: none
+}
+.vid-ss-list-home {
+	MARGIN-BOTTOM: 10px; WIDTH: auto
+}
+.vid-ss-list-home LI {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; LIST-STYLE-POSITION: outside; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px; LIST-STYLE-TYPE: none
+}
+.vid-details-cont {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 5px; PADDING-BOTTOM: 10px; OVERFLOW: hidden; WIDTH: 325px; COLOR: #000; PADDING-TOP: 10px
+}
+.vid-details-cont:hover {
+	BACKGROUND-COLOR: #f8f8f8
+}
+.vid-details-cont A {
+	COLOR: #000; TEXT-DECORATION: none
+}
+.vid-details-cont A:hover {
+	COLOR: #000
+}
+.vid-details-cont-spons {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 10px; MARGIN: 0px auto; OVERFLOW: hidden; PADDING-TOP: 10px; BORDER-BOTTOM: #ededed 1px solid; BACKGROUND-COLOR: #eef4f7; TEXT-ALIGN: center
+}
+.vid-details-content {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 10px; FLOAT: right; PADDING-BOTTOM: 0px; WIDTH: 195px; PADDING-TOP: 0px
+}
+.vid-thumb {
+	BORDER-RIGHT: #e2e2e2 2px solid; BORDER-TOP: #e2e2e2 2px solid; FLOAT: left; MARGIN: 0px 0px 0px 5px; BORDER-LEFT: #e2e2e2 2px solid; WIDTH: 100px; CURSOR: pointer; BORDER-BOTTOM: #e2e2e2 2px solid; POSITION: relative
+}
+.vid-thumb:hover {
+	CURSOR: pointer
+}
+.vid-next-details-content {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 10px; FLOAT: left; PADDING-BOTTOM: 0px; WIDTH: 201px; CURSOR: pointer; COLOR: #000; PADDING-TOP: 0px
+}
+.vid-next-details-content:hover {
+	CURSOR: pointer
+}
+.vid-details-text {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 12px; PADDING-BOTTOM: 2px; COLOR: #000; PADDING-TOP: 1px
+}
+.vid-comments-comment {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 15px; PADDING-TOP: 15px; BORDER-BOTTOM: #e3eff6 1px solid
+}
+.vid-comments-reply {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 35px; PADDING-BOTTOM: 15px; PADDING-TOP: 15px; BORDER-BOTTOM: #e3eff6 1px solid
+}
+.vid-comments-text {
+	PADDING-BOTTOM: 5px
+}
+.vid-comments-enter {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-WEIGHT: bold; PADDING-BOTTOM: 10px; PADDING-TOP: 20px
+}
+.vid-comment-textbox {
+	BORDER-RIGHT: #e3eff6 1px solid; BORDER-TOP: #e3eff6 1px solid; BORDER-LEFT: #e3eff6 1px solid; WIDTH: 500px; BORDER-BOTTOM: #e3eff6 1px solid
+}
+.vid-comments-notify {
+	FLOAT: left; WIDTH: 200px; PADDING-TOP: 10px
+}
+.vid-comments-char {
+	FONT-SIZE: 0.81em; FLOAT: right; WIDTH: 200px; PADDING-TOP: 10px; TEXT-ALIGN: right
+}
+.vid-add-comment-cont {
+	MARGIN-TOP: 10px
+}
+.vid-add-comment-signedout {
+	MARGIN: 5px 0px 10px
+}
+.vid-comment-guidelines {
+	PADDING-TOP: 10px
+}
+.vid-comments-enter-cont {
+	WIDTH: 505px
+}
+.vid-by-topic {
+	MARGIN: 10px 0px 20px; OVERFLOW: hidden; WIDTH: 640px
+}
+.vid-topics-tabs {
+	BORDER-RIGHT: #e1e1e1 1px solid; BORDER-TOP: #e1e1e1 1px solid; FLOAT: left; BORDER-LEFT: #e1e1e1 1px solid; WIDTH: 170px; BORDER-BOTTOM: #e1e1e1 1px solid
+}
+.vid-topics-tab {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 5px; BACKGROUND: url(http://i.investopedia.com/inv/video/vid-topics-tabs.jpg) #fafafa no-repeat right top; PADDING-BOTTOM: 0px; WIDTH: 165px; CURSOR: pointer; PADDING-TOP: 5px; BORDER-BOTTOM: #e1e1e1 1px solid; HEIGHT: 22px
+}
+.vid-topics-tab:hover {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 5px; BACKGROUND: url(http://i.investopedia.com/inv/video/vid-topics-tabs.jpg) #eee no-repeat right bottom; PADDING-BOTTOM: 0px; WIDTH: 165px; PADDING-TOP: 5px; HEIGHT: 22px
+}
+.vid-topics-tab-select {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 5px; BACKGROUND: url(http://i.investopedia.com/inv/video/vid-topics-tabs.jpg) #eee no-repeat right bottom; PADDING-BOTTOM: 0px; WIDTH: 165px; PADDING-TOP: 5px; BORDER-BOTTOM: #e1e1e1 1px solid; HEIGHT: 22px
+}
+.vid-topics-tab-select A {
+	CURSOR: default; COLOR: #909090; TEXT-DECORATION: none
+}
+.vid-topics-tab-select A:hover {
+	COLOR: #909090
+}
+.vid-topics-vids {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 15px; FLOAT: left; PADDING-BOTTOM: 20px; WIDTH: 443px; PADDING-TOP: 0px
+}
+.vid-topic-vids-cont {
+	PADDING-RIGHT: 11px; PADDING-LEFT: 0px; FLOAT: left; PADDING-BOTTOM: 15px; WIDTH: 136px; PADDING-TOP: 0px
+}
+.vid-topics-vid-thumb {
+	BORDER-RIGHT: #a1a1a1 2px solid; BORDER-TOP: #a1a1a1 2px solid; MARGIN-BOTTOM: 5px; OVERFLOW: hidden; BORDER-LEFT: #a1a1a1 2px solid; WIDTH: 132px; BORDER-BOTTOM: #a1a1a1 2px solid; POSITION: relative
+}
+.vid-topics-vid-title {
+	MARGIN-BOTTOM: 10px
+}
+.vid-playing {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 10px; PADDING-TOP: 10px; BACKGROUND-COLOR: #eef4f7
+}
+.vid-notplaying {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 10px; CURSOR: pointer; PADDING-TOP: 10px
+}
+.vid-notplaying:hover {
+	CURSOR: pointer; BACKGROUND-COLOR: #f8f8f8
+}
+.vid-notplaying A {
+	COLOR: #000; TEXT-DECORATION: none
+}
+.vid-notplaying A:hover {
+	COLOR: #000
+}
+.vid-overlay {
+	DISPLAY: none; WIDTH: 610px; COLOR: #fff; POSITION: absolute; HEIGHT: 343px; BACKGROUND-COLOR: #303030
+}
+.vid-675-header {
+	WIDTH: 675px
+}
+.vid-read-article {
+	FONT-WEIGHT: bold; PADDING-TOP: 7px
+}
+.videoTitle {
+	COLOR: #255473
+}
+.vid-logo {
+	FLOAT: right; WIDTH: 640px; TEXT-ALIGN: right
+}
+.vid-partner-links {
+	PADDING-RIGHT: 5px; MARGIN-TOP: 10px; PADDING-LEFT: 5px; PADDING-BOTTOM: 10px; PADDING-TOP: 0px; BACKGROUND-COLOR: #eee
+}
+.vid-partner-links-ul {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 10px; PADDING-BOTTOM: 10px; PADDING-TOP: 10px; BACKGROUND-COLOR: #fff
+}
+.ask-input {
+	PADDING-BOTTOM: 15px; MARGIN: 15px 0px 10px; OVERFLOW: hidden; BORDER-BOTTOM: #dadada 1px solid
+}
+.ask-btn {
+	MARGIN-TOP: 5px; BACKGROUND: url(http://i.investopedia.com/inv/icons/ask-btn.jpg) no-repeat 50% top; FLOAT: right; WIDTH: 66px; HEIGHT: 21px
+}
+
+
+.ask-btn:hover {
+	BACKGROUND: url(http://i.investopedia.com/inv/icons/ask-btn.jpg) no-repeat 50% bottom; WIDTH: 66px; CURSOR: pointer; HEIGHT: 21px
+}
+
+.download-btn {
+	MARGIN-TOP: 5px; BACKGROUND: url(img/ask-btn.jpg) no-repeat 50% top; FLOAT: right; WIDTH: 66px; HEIGHT: 21px
+}
+
+
+.inv-hdr {
+	PADDING-RIGHT: 8px; PADDING-LEFT: 8px; PADDING-BOTTOM: 10px; OVERFLOW: hidden; COLOR: #fff; PADDING-TOP: 10px; BACKGROUND-COLOR: #426f99
+}
+.inv-hdr A:link {
+	COLOR: #fff; TEXT-DECORATION: none
+}
+.inv-hdr A:visited {
+	COLOR: #fff; TEXT-DECORATION: none
+}
+.inv-hdr A:hover {
+	COLOR: #fff; TEXT-DECORATION: none
+}
+.inv-logo {
+	FLOAT: left
+}
+.hdr-terms {
+	FLOAT: right; PADDING-TOP: 8px
+}
+.hdr-terms A {
+	COLOR: #fff; TEXT-DECORATION: none
+}
+.tod-hdr {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 5px; PADDING-BOTTOM: 5px; COLOR: #fff; PADDING-TOP: 5px; BACKGROUND-COLOR: #2e2c2d
+}
+.tod-title {
+	FONT-SIZE: large; PADDING-BOTTOM: 5px; FONT-FAMILY: Georgia, "Times New Roman", Times, serif
+}
+.btn {
+	MARGIN: 10px 0px
+}
+.blue-hdr {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 5px; FONT-SIZE: large; PADDING-BOTTOM: 5px; COLOR: #fff; PADDING-TOP: 5px; FONT-FAMILY: Georgia, "Times New Roman", Times, serif; BACKGROUND-COLOR: #35628c
+}
+.grey-box {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 5px; PADDING-BOTTOM: 5px; MARGIN: 5px 0px; PADDING-TOP: 5px; BACKGROUND-COLOR: #f0f0f0
+}
+.term-title {
+	FONT-SIZE: medium; PADDING-BOTTOM: 5px; FONT-FAMILY: Georgia, "Times New Roman", Times, serif
+}
+.fontsmall {
+	FONT-SIZE: small
+}
+.breadcrumb-cont {
+	PADDING-RIGHT: 5px; BORDER-TOP: #426f99 1px solid; PADDING-LEFT: 5px; PADDING-BOTTOM: 10px; MARGIN: 10px 0px; PADDING-TOP: 10px; BORDER-BOTTOM: #426f99 1px solid; BACKGROUND-COLOR: #f0f0f0
+}
+.term-hdr {
+	FONT-SIZE: x-large; MARGIN-BOTTOM: 5px
+}
+.list {
+	FONT-WEIGHT: bold; FONT-SIZE: medium; MARGIN: 10px 0px; LINE-HEIGHT: 26px
+}
+.def-title {
+	FONT-SIZE: x-small
+}
+.takeover-bg {
+	PADDING-RIGHT: 15px; MARGIN-TOP: 15px; PADDING-LEFT: 15px; BACKGROUND: url(http://i.investopedia.com/inv/takeover/tax-takeover-bg.jpg) #f7fafe no-repeat; PADDING-BOTTOM: 15px; OVERFLOW: auto; WIDTH: 609px; PADDING-TOP: 15px
+}
+.takeover-top-banner {
+	PADDING-RIGHT: 15px; PADDING-LEFT: 15px; PADDING-BOTTOM: 0px; WIDTH: 985px; PADDING-TOP: 15px
+}
+.form-calendar {
+	BORDER-RIGHT: #ccc 1px solid; BACKGROUND-POSITION: right 50%; BORDER-TOP: #ccc 1px solid; PADDING-LEFT: 5px; BACKGROUND-IMAGE: url(http://i.investopedia.com/inv/markets/calendar-bg.jpg); MARGIN-LEFT: 5px; BORDER-LEFT: #ccc 1px solid; WIDTH: 90px; MARGIN-RIGHT: 5px; BORDER-BOTTOM: #ccc 1px solid; BACKGROUND-REPEAT: no-repeat; HEIGHT: 20px
+}
+UNKNOWN {
+	DISPLAY: none
+}
+.marketplace A {
+	DISPLAY: block
+}
+.marketplace {
+	PADDING-RIGHT: 10px; MARGIN-TOP: -10px; PADDING-LEFT: 10px; FONT-WEIGHT: bold; PADDING-BOTTOM: 10px; PADDING-TOP: 0px; BACKGROUND-COLOR: #f7f6f3
+}
+.inv-on-the-go {
+	BORDER-RIGHT: #d3d3d3 1px solid; PADDING-RIGHT: 10px; BORDER-TOP: #d3d3d3 0px solid; MARGIN-TOP: -2px; PADDING-LEFT: 10px; PADDING-BOTTOM: 10px; BORDER-LEFT: #d3d3d3 1px solid; PADDING-TOP: 10px; BORDER-BOTTOM: #d3d3d3 1px solid
+}
+.inv-on-the-go IMG {
+	MARGIN-TOP: 10px; PADDING-LEFT: 18px
+}
