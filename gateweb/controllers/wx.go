@@ -68,7 +68,7 @@ func (u *WxController) Receiver() {
 				beego.Error("biz.GetCreateCommuser:", mp.Request.FromUserName, err)
 			}
 
-			msg := fmt.Sprintf("欢迎使用帮您看着,您的股讯账号是:%s 股讯密码:%s.请添加微信客服号:z1681234\n", user.Userid, user.Userpwd)
+			msg := fmt.Sprintf("欢迎使用帮您看着,您的股讯账号是:%s 股讯密码:%s.请把账号发给客服开通,客服微信号:z1681234\n", user.Userid, user.Userpwd)
 			mp.ReplyTextMsg(w, msg)
 			ReportNewUser()
 
